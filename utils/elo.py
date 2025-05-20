@@ -31,23 +31,46 @@ def load_questions():  # -> Dict[str, str]
             questions[qid] = text
     return questions
 
-def load_ratings():  # -> Dict[str, int]
+def load_ratings():  # -> Dict[str, dict]
     """
-    Load or initialize Elo ratings for questions.
-    Returns a dict mapping question_id to its Elo rating.
+    Load or initialize Elo ratings for questions, including uncertainty tracking.
+    Returns a dict mapping question_id to a dict with:
+      - rating (int): current Elo rating
+      - matches (int): number of pairwise comparisons participated in
+      - uncertainty (float | None): 1/sqrt(matches) or None if no data
     """
     if os.path.exists(RATINGS_FILE):
         with open(RATINGS_FILE, 'r') as f:
-            ratings = json.load(f)
+            raw = json.load(f)
     else:
-        ratings = {}
-    # Initialize missing ratings
+        raw = {}
     questions = load_questions()
+    ratings = {}
     updated = False
     for qid in questions:
-        if qid not in ratings:
-            ratings[qid] = DEFAULT_RATING
+        entry = raw.get(qid)
+        up = None
+        if isinstance(entry, dict):
+            r = entry.get('rating', DEFAULT_RATING)
+            m = entry.get('matches', 0)
+            u = entry.get('uncertainty')
+            up = entry.get('uncertainty_points')
+        elif isinstance(entry, (int, float)):
+            r = entry
+            m = 0
+            u = None
             updated = True
+        else:
+            r = DEFAULT_RATING
+            m = 0
+            u = None
+            updated = True
+        ratings[qid] = {
+            'rating': int(r),
+            'matches': int(m),
+            'uncertainty': u,
+            'uncertainty_points': up
+        }
     if updated:
         save_ratings(ratings)
     return ratings
@@ -128,7 +151,7 @@ def update_ratings(ratings, question_ids, ranking, k_factor=32):
       dict: updated ratings mapping question_id to new integer rating.
     """
     # Snapshot of old ratings
-    old = {qid: ratings.get(qid, DEFAULT_RATING) for qid in question_ids}
+    old = {qid: ratings[qid]['rating'] for qid in question_ids}
     n = len(question_ids)
     if n < 2:
         return ratings
@@ -148,7 +171,16 @@ def update_ratings(ratings, question_ids, ranking, k_factor=32):
             E_i += 1 / (1 + 10 ** ((R_j - R_i) / 400))
         # Update rating
         new_R = R_i + k_per_match * (S_i - E_i)
-        ratings[qid] = int(round(new_R))
+        ratings[qid]['rating'] = int(round(new_R))
+        # Increment match count (each batch gives n-1 pairwise comparisons)
+        ratings[qid]['matches'] += n - 1
+        # Recompute uncertainty as 1/sqrt(matches)
+        m = ratings[qid]['matches']
+        # Uncertainty ratio (0-1): ~1/sqrt(matches)
+        u = (1.0 / m**0.5) if m > 0 else None
+        ratings[qid]['uncertainty'] = u
+        # Uncertainty in Elo points (approximate rating error): scale ratio by 400
+        ratings[qid]['uncertainty_points'] = (u * 400) if u is not None else None
     return ratings
 
 def main():
