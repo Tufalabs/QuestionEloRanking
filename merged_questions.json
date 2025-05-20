@@ -1,0 +1,711 @@
+{
+  "total_questions": 138,
+  "source_files": [
+    "algebra-problems (1).json",
+    "algebra-problems (2).json",
+    "algebra-problems.json",
+    "algebra-tiebreaker-problems.json",
+    "calculus-problems.json",
+    "calculus-tiebreaker-problems.json",
+    "discrete-problems.json",
+    "discrete-tiebreaker-problems.json",
+    "general-problems.json",
+    "general-tiebreaker-problems.json",
+    "geometry-problems.json",
+    "geometry-tiebreaker-problems.json",
+    "guts-problems.json",
+    "team-problems.json"
+  ],
+  "questions": [
+    {
+      "id": "b2109390e4bc",
+      "question": "Compute the number of solutions x ∈ [0, 2π] to cos(x^2) + sin(x^2) = 0.",
+      "source": "algebra-problems (1).json"
+    },
+    {
+      "id": "c4bb8298123a",
+      "question": "Suppose that for some angle 0 ≤ θ ≤ π/4, the roots of x^2 + a x + 3/10 are sin θ and cos θ. If the roots of p(x) = x^2 + c x + d are sin(2θ) and cos(2θ), what is the value of p(1)?",
+      "source": "algebra-problems (1).json"
+    },
+    {
+      "id": "70deeec37fa7",
+      "question": "Let q(x) = x^3 − 9x^2 + 18x + 27. Compute q(−10) + q(−8) + q(−6) + … + q(16).",
+      "source": "algebra-problems (1).json"
+    },
+    {
+      "id": "8bc8da976d4b",
+      "question": "Compute 5/(1·2·3·4) + 7/(2·3·4·5) + … + 99/(48·49·50·51).",
+      "source": "algebra-problems (1).json"
+    },
+    {
+      "id": "8217f6de364c",
+      "question": "Ashley writes the concatenation of ⌊2.5^1⌋, ⌊2.5^2⌋, …, ⌊2.5^1000⌋ on the board. Her number is 199667 digits long. Now, Bob writes the concatenation of 4^1, 4^2, …, 4^1000 on the board. Compute the number of digits in Bob’s number.",
+      "source": "algebra-problems (1).json"
+    },
+    {
+      "id": "8684a1cb7129",
+      "question": "Let f(x, y) = x y and g(x, y) = x^2 − y^2. If a counterclockwise rotation of θ radians about the origin sends g(x, y) = a to f(x, y) = b, compute the value of (a/b) tan θ.",
+      "source": "algebra-problems (1).json"
+    },
+    {
+      "id": "92b1a23ec817",
+      "question": "Find the number of lines of symmetry that pass through the origin for |x y (x + y) (x − y)| = 1.",
+      "source": "algebra-problems (1).json"
+    },
+    {
+      "id": "3eb759f71724",
+      "question": "Let a₁, a₂, a₃, and a₄ be non-negative real numbers such that a₁^2 + a₂^2 + a₃^2 + a₄^2 = 1. Compute the minimum possible value of 6 a₁^3 + 8 a₂^3 + 12 a₃^3 + 24 a₄^3.",
+      "source": "algebra-problems (1).json"
+    },
+    {
+      "id": "3d2fa978f102",
+      "question": "Compute sum_{a=0}^{100} sum_{b=0}^{100} 1/(1 + cos(2π(a − b)/101)).",
+      "source": "algebra-problems (1).json"
+    },
+    {
+      "id": "0e7ebd96c908",
+      "question": "Call a polynomial x^8 + b₇ x^7 + ⋯ + b₁ x + 1 binary if each bᵢ is either 0 or 1. Compute the number of binary polynomials that have at least one real root.",
+      "source": "algebra-problems (1).json"
+    },
+    {
+      "id": "6f20c0112d51",
+      "question": "There exists a unique real value of x such that (x + √x)^2 = 16. Compute x.",
+      "source": "algebra-problems (2).json"
+    },
+    {
+      "id": "aa19e990bfcb",
+      "question": "Compute the number of values of x in the interval [−11π, −2π] that satisfy 5 cos(x) + (4/5) sin(x) + 3 = 0.",
+      "source": "algebra-problems (2).json"
+    },
+    {
+      "id": "6627cdaa91fe",
+      "question": "Nathan has discovered a new way to construct chocolate bars, but it’s expensive! He starts with a single 1×1 square of chocolate and then adds more rows and columns from there. If his current bar has dimensions w×h (w columns and h rows), then it costs w² dollars to add another row and h² dollars to add another column. What is the minimum cost to get his chocolate bar to size 20×20?",
+      "source": "algebra-problems (2).json"
+    },
+    {
+      "id": "664bb509d289",
+      "question": "If the sum of the real roots x to each of the equations 2^(2x) − 2^x + 1 + (1 − 1/k²) = 0 for k = 2, 3, …, 2023 is N, what is 2N?",
+      "source": "algebra-problems (2).json"
+    },
+    {
+      "id": "e291dc815ce0",
+      "question": "Suppose α, β, γ ∈ {−2, 3} are chosen such that M = max_{x∈ℝ} min_{y≥0} (αx + βy + γxy) is finite and positive. What is the sum of the possible values of M?",
+      "source": "algebra-problems (2).json"
+    },
+    {
+      "id": "b197ae0a2551",
+      "question": "What is the area of the figure in the complex plane enclosed by the origin and the set of all points 1/z such that (1 − 2i) z + (−2i − 1) z̄ = 6i?",
+      "source": "algebra-problems (2).json"
+    },
+    {
+      "id": "91448669ace9",
+      "question": "Consider a sequence F₀ = 2, F₁ = 3 that has the property F_{n+1}F_{n−1} − F_n² = (−1)^n·2. If each term of the sequence can be written in the form a·r₁^n + b·r₂^n, what is the positive difference between r₁ and r₂?",
+      "source": "algebra-problems (2).json"
+    },
+    {
+      "id": "f7b86f23b543",
+      "question": "If x and y are real numbers, compute the minimum possible value of [4xy(3x² + 10xy + 6y²)] / (x⁴ + 4y⁴).",
+      "source": "algebra-problems (2).json"
+    },
+    {
+      "id": "45a721c9fc5c",
+      "question": "Let x, y, z be nonzero numbers, not necessarily real, such that (x−y)² + (y−z)² + (z−x)² = 24yz and x²/(yz) + y²/(zx) + z²/(xy) = 3. Compute x²/(yz).",
+      "source": "algebra-problems (2).json"
+    },
+    {
+      "id": "787dc3aac2ec",
+      "question": "Suppose that p(x) and q(x) are monic polynomials with nonnegative integer coefficients such that 1/(5x+1)·q(x) − 1/p(x) ≥ 1/(3x²) for all integers x ≥ 2. Compute the minimum possible value of p(1)·q(1).",
+      "source": "algebra-problems (2).json"
+    },
+    {
+      "id": "3118f73d41d8",
+      "question": "Compute the number of solutions x in [0, 2π] to cos(x^2) + sin(x^2) = 0.",
+      "source": "algebra-problems.json"
+    },
+    {
+      "id": "aedc7a495cb8",
+      "question": "Ashley writes the concatenation of ⌊2.5^1⌋, ⌊2.5^2⌋, …, ⌊2.5^10000⌋ on the board. Her number is 199667 digits long. Now, Bob writes the concatenation of 4^1, 4^2, …, 4^10000 on the board. Compute the number of digits in Bob’s number.",
+      "source": "algebra-problems.json"
+    },
+    {
+      "id": "b11ac925c4bf",
+      "question": "Let f(x,y) = x y and g(x,y) = x^2 − y^2. If a counterclockwise rotation of θ radians about the origin sends g(x,y) = a to f(x,y) = b, compute the value of (a/b)·tan θ.",
+      "source": "algebra-problems.json"
+    },
+    {
+      "id": "9212f9a75e95",
+      "question": "Find the number of lines of symmetry that pass through the origin for |x y (x+y) (x−y)| = 1.",
+      "source": "algebra-problems.json"
+    },
+    {
+      "id": "c152af22a2f8",
+      "question": "Let a1, a2, a3, and a4 be non-negative real numbers such that a1^2 + a2^2 + a3^2 + a4^2 = 1. Compute the minimum possible value of 6 a1^3 + 8 a2^3 + 12 a3^3 + 24 a4^3.",
+      "source": "algebra-problems.json"
+    },
+    {
+      "id": "270f64b1398a",
+      "question": "Compute ∑_{a=0}^{100} ∑_{b=0}^{100} 1 / [1 + cos(2π(a − b)/101)].",
+      "source": "algebra-problems.json"
+    },
+    {
+      "id": "37821970bc94",
+      "question": "Call a polynomial x^8 + b7 x^7 + ⋯ + b1 x + 1 binary if each b_i is either 0 or 1. Compute the number of binary polynomials that have at least one real root.",
+      "source": "algebra-problems.json"
+    },
+    {
+      "id": "c7794f8c2436",
+      "question": "Compute the area of the polygon formed by connecting the roots of x^10 + x^9 + x^8 + x^6 + x^5 + x^4 + x^2 + x + 1 graphed in the complex plane with line segments in counterclockwise order.",
+      "source": "algebra-tiebreaker-problems.json"
+    },
+    {
+      "id": "cc3c64572e1c",
+      "question": "f(x) is a nonconstant polynomial. Given that f(f(x)) + f(x) = f(x)^2, compute f(3).",
+      "source": "algebra-tiebreaker-problems.json"
+    },
+    {
+      "id": "d20a260819e1",
+      "question": "Let f(x) = (x^3 − 6x^2 + 25)/(2x − 7). There is an interval [a, b] such that for any real number x, the sequence x, f(x), f(f(x)), … is bounded if and only if x ∈ [a, b]. Compute (a − b)^2.",
+      "source": "algebra-tiebreaker-problems.json"
+    },
+    {
+      "id": "eb07c1d0cc63",
+      "question": "Compute the slope of the line tangent to y^2 = x^3 + x + 1 at the point (0, 1).",
+      "source": "calculus-problems.json"
+    },
+    {
+      "id": "bb6ccbf8bcec",
+      "question": "For how many real numbers x do we have that log_5(1 + x) = x?",
+      "source": "calculus-problems.json"
+    },
+    {
+      "id": "636501d873eb",
+      "question": "Eric is standing on the circumference of a circular barn with a radius of 100 meters. Ross starts at the point on the circumference diametrically opposite to Eric and starts moving toward him along the circumference such that the straight-line distance between them decreases at a constant rate of 1 meter per second. When Ross is at an angle of π/2 from Eric, what is the rate of change of the angle between them, in radians per second? (The angle between Ross and Eric is measured with respect to the center of the circular barn.)",
+      "source": "calculus-problems.json"
+    },
+    {
+      "id": "480b5e8a2243",
+      "question": "The function f(x, y) has value −ln(a) whenever x^2 + y^2/4 = a^2 and 0 < a ≤ 1, and 0 otherwise. Compute the volume contained in the region below this function and above the xy-plane.",
+      "source": "calculus-problems.json"
+    },
+    {
+      "id": "4dcdb3f4e215",
+      "question": "Compute ∫ sin(sin(x)) sin(2x) dx.",
+      "source": "calculus-problems.json"
+    },
+    {
+      "id": "a2e0e808f81a",
+      "question": "Compute ∫_{-1}^1 (1 + cos(x)) / (1 + 3x) dx.",
+      "source": "calculus-problems.json"
+    },
+    {
+      "id": "a212125f0cac",
+      "question": "A stone is bouncing on a pond. It starts at height 1. Each time it bounces on the pond, its height x changes to a uniformly random height between 0 and x. If the height ever drops below 1/10, the next time it hits the pond it will sink. What is the expected number of times the stone will bounce before sinking (not counting the sinking as a bounce)?",
+      "source": "calculus-problems.json"
+    },
+    {
+      "id": "54b531216038",
+      "question": "Let r_1(t) ≤ r_2(t) ≤ r_3(t) be the roots of x^3 + tx + 2. When t = −3, compute r'_1(t).",
+      "source": "calculus-problems.json"
+    },
+    {
+      "id": "40449d6fbef3",
+      "question": "Let △ABC be an equilateral triangle with side length 4. Let P be a point chosen uniformly and at random in the interior of △ABC. Determine the probability that a square of side length 1 with a corner at P can be rotated to lie entirely within △ABC.",
+      "source": "calculus-problems.json"
+    },
+    {
+      "id": "70737b0ba880",
+      "question": "Define the double factorial via (2n−1)!! = (2n−1)(2n−3)···1. Compute the unique pair (a, c) with c > 0 and a ∈ (0, ∞) such that lim_{n→∞} c^n (4n−1)!! / ((2n−1)!! (2n−1)!!) = a.",
+      "source": "calculus-problems.json"
+    },
+    {
+      "id": "f28b586f4218",
+      "question": "Compute the ratio \\(\\displaystyle \\frac{\\int_{-\\infty}^{\\infty} x^{102} e^{1 - x^4}\\,dx}{\\int_{-\\infty}^{\\infty} x^{98} e^{1 - x^4}\\,dx}\\).",
+      "source": "calculus-tiebreaker-problems.json"
+    },
+    {
+      "id": "c8d6863e6016",
+      "question": "A block of cheese in the shape of a triangular prism with height 3 cm and equilateral bases of side length 4 cm is grated along a plane parallel to one of its lateral (non-base) faces. The grater is initially placed at the edge of the prism opposite the lateral face, and over time the prism is truncated along this edge. Call the “width” of the cheese the distance between the grater and the lateral face. The cheese that is grated falls into a funnel that is a square pyramid with height \\(3\\sqrt{3}\\) cm and base of side length 4 cm; the cheese falls through the square base at the top toward the vertex. Assume that the grated cheese is fine enough to fill the funnel continuously. If the width of the cheese decreases at a rate of 1 cm/s when the width is \\(2\\sqrt{3}-\\sqrt{2}\\) cm, the height of the cheese in the funnel increases at a rate of \\(d\\) cm/s. Compute \\(d\\).",
+      "source": "calculus-tiebreaker-problems.json"
+    },
+    {
+      "id": "bdb5df591bf3",
+      "question": "A frog hops on the real number line, starting from the origin. Each second, it moves right uniformly at random a distance between 0 and 1. There is an abyss between \\(1\\) and \\(\\tfrac{5}{4}\\), and if the frog lands there it will fall into the abyss. If the frog makes it to or passes 3 without falling in the abyss, then the frog is safe. What is the probability it is safe?",
+      "source": "calculus-tiebreaker-problems.json"
+    },
+    {
+      "id": "87a951a4a7a8",
+      "question": "For all positive integers n > 1, let f(n) denote the largest odd proper divisor of n (a proper divisor of n is a positive divisor of n except for n itself). Given that N = 2023·2320, compute f(N) and f(f(f(N))).",
+      "source": "discrete-problems.json"
+    },
+    {
+      "id": "5d960edc8e30",
+      "question": "A 3 × 3 grid is to be painted with three colors (red, green, and blue) such that (i) no two squares that share an edge are the same color and (ii) no two corner squares on the same edge of the grid have the same color. As an example, the upper-left and bottom-left squares cannot both be red, as that would violate condition (ii). In how many ways can this be done? (Rotations and reflections are considered distinct colorings.)",
+      "source": "discrete-problems.json"
+    },
+    {
+      "id": "dfc33fd1bc34",
+      "question": "How many trailing zeros does the value 300·305·310···1090·1095·1100 end with?",
+      "source": "discrete-problems.json"
+    },
+    {
+      "id": "c49a0690436e",
+      "question": "Michelle is drawing segments in the plane. She begins from the origin facing up the y-axis and draws a segment of length 1. Now, she rotates her direction by 120°, with equal probability clockwise or counterclockwise, and draws another segment of length 1 beginning from the end of the previous segment. She then continues this until she hits an already drawn segment. What is the expected number of segments she has drawn when this happens?",
+      "source": "discrete-problems.json"
+    },
+    {
+      "id": "db136507e24f",
+      "question": "Ryan chooses five subsets S1, S2, S3, S4, S5 of {1,2,3,4,5,6,7} such that |S1| = 1, |S2| = 2, |S3| = 3, |S4| = 4, and |S5| = 5. Moreover, for all 1 ≤ i < j ≤ 5, either Si ∩ Sj = Si or Si ∩ Sj = ∅ (in other words, the intersection of Si and Sj is either Si or the empty set). In how many ways can Ryan select the sets?",
+      "source": "discrete-problems.json"
+    },
+    {
+      "id": "11a53b1b4b04",
+      "question": "We say that an integer x ∈ {1, …, 102} is square-ish if there exists some integer n such that x ≡ n^2 + n (mod 103). Compute the product of all square-ish integers modulo 103.",
+      "source": "discrete-problems.json"
+    },
+    {
+      "id": "72e873ad8595",
+      "question": "Let S be the number of bijective functions f: {0,1,…,288} → {0,1,…,288} such that f((m+n) mod 17) is divisible by 17 if and only if f(m) + f(n) is divisible by 17. Compute the largest positive integer n such that 2^n divides S.",
+      "source": "discrete-problems.json"
+    },
+    {
+      "id": "0aafaa7e6821",
+      "question": "Define the Fibonacci numbers via F0 = 0, F1 = 1, and Fn = Fn−1 + Fn−2. Olivia flips two fair coins at the same time, repeatedly, until she has flipped a tails on both, not necessarily on the same throw. She records the number of pairs of flips c until this happens (not including the last pair, so if on the first flip both coins turned up tails c would be 0). What is the expected value of F_c?",
+      "source": "discrete-problems.json"
+    },
+    {
+      "id": "615341f3b9fe",
+      "question": "Suppose a and b are positive integers with a curious property: ((a^3 − 3ab + 1)/2)^n + ((b^3 + 1)/2)^n is an integer for at least 3, but at most finitely many different choices of positive integers n. What is the least possible value of a + b?",
+      "source": "discrete-problems.json"
+    },
+    {
+      "id": "afda2a3a73e0",
+      "question": "Colin has a peculiar 12-sided dice: it is made up of two regular hexagonal pyramids. Colin wants to paint each face one of three colors so that no two adjacent faces on the same pyramid have the same color. How many ways can he do this? Two paintings are considered identical if there is a way to rotate or flip the dice to go from one to the other. Faces are adjacent if they share an edge.",
+      "source": "discrete-problems.json"
+    },
+    {
+      "id": "f775020b1e13",
+      "question": "Find the smallest positive integer n such that there exists a prime p where p and p+10 both divide n and the sum of the digits of n is p.",
+      "source": "discrete-tiebreaker-problems.json"
+    },
+    {
+      "id": "dcfe5e4eea20",
+      "question": "Every cell in a 5 ×5 grid of paper is to be painted either red or white with equal probability. An edge of the paper is said to have a “tree” if the set of cells depicted in the diagram below are all painted red when the paper is rotated so that the edge lies at the bottom. Given that at least one edge of the paper has a tree, what is the expected number of edges that have a tree?",
+      "source": "discrete-tiebreaker-problems.json"
+    },
+    {
+      "id": "a51f95a60976",
+      "question": "What is the least positive integer x for which the expression x2+ 3x+ 9 has 3 distinct prime divisors?",
+      "source": "discrete-tiebreaker-problems.json"
+    },
+    {
+      "id": "035320f48fce",
+      "question": "Arpit begins with a circular paper disk of radius 8 and cuts out a circular disk of radius 4 with the same center, which results in an annulus. Then, he cuts out and removes a sector of the annulus with a central angle of 90°. He repeats these steps beginning with another circular disk of radius 8 and glues together the two annulus sectors in the shape of an S as shown on the left below. After making the S, Arpit also makes a letter T by gluing together two rectangles each having dimensions x×4x as shown on the right below. Compute the value of x Arpit should choose so that the S and T have the same area.",
+      "source": "general-problems.json"
+    },
+    {
+      "id": "96804461623e",
+      "question": "Charlie has a large supply of chocolates, each of which has two properties: the filling can be raspberry or blueberry and the shape can be circular or square. Half of the chocolates have a raspberry filling and the other half have a blueberry filling. Also, 4/9 of the raspberry-filled chocolates are circular and 2/3 of the blueberry-filled chocolates are square. What fraction of the square chocolates are raspberry-filled?",
+      "source": "general-problems.json"
+    },
+    {
+      "id": "dd19572d0828",
+      "question": "Let p be an odd prime, and P be the second smallest multiple of p that is a perfect cube. How many positive factors does P have?",
+      "source": "general-problems.json"
+    },
+    {
+      "id": "61fb8f538351",
+      "question": "There exists a unique real value of x such that (x+√x)² = 16. Compute x.",
+      "source": "general-problems.json"
+    },
+    {
+      "id": "f79fd8fc2239",
+      "question": "For all positive integers n > 1, let f(n) denote the largest odd proper divisor of n (a proper divisor of n is a positive divisor of n except for n itself). Given that N = 2023·2320, compute f(N)/f(f(f(N))).",
+      "source": "general-problems.json"
+    },
+    {
+      "id": "299f8d978c19",
+      "question": "Let X be the set of natural numbers with 10 digits comprising only 0’s and 1’s, and whose first digit is 1. How many numbers in X are divisible by 3?",
+      "source": "general-problems.json"
+    },
+    {
+      "id": "5e02f0b5dc20",
+      "question": "If x and y are positive integers that satisfy 43^x + 47^y = 2023, compute the minimum possible value of x + y.",
+      "source": "general-problems.json"
+    },
+    {
+      "id": "ad2c446ea65e",
+      "question": "Lines are drawn from a corner of a square to partition the square into 8 parts with equal areas. Another set of lines is drawn in the same way from an adjacent corner. How many regions are formed inside the square and are bounded by drawn lines and edges of the square?",
+      "source": "general-problems.json"
+    },
+    {
+      "id": "2202dce81957",
+      "question": "William has a large supply of candy bars and wants to choose one of among three families to give the candy to. Family A has 13 children, family B has 11 children, and family C has 7 children. The children in family C each require an even number of candy bars. If William attempts to distribute the candy bars equally among the children in families A, B, and C, there are 7, 5, and 8 candy bars left over, respectively. What is the least number of candy bars that William could have?",
+      "source": "general-problems.json"
+    },
+    {
+      "id": "3927bf9f7a39",
+      "question": "Consider the rectangle with a length of 2 and a width of 1. Pick one of the two diagonals of the rectangle. Observe that this diagonal separates the rectangle into two right-angled triangles, R1 and R2. Reflect R1 in the diagonal to obtain R1'. Compute the area of the intersection of R1' and R2.",
+      "source": "general-problems.json"
+    },
+    {
+      "id": "4c1055de1587",
+      "question": "Let A1A2…A12 be a regular dodecagon. Equilateral triangles △A1A2B1, △A2A3B2, …, and △A12A1B12 are drawn such that points B1, B2, …, and B12 lie outside dodecagon A1A2…A12. Compute the ratio of the area of dodecagon B1B2…B12 to the area of dodecagon A1A2…A12.",
+      "source": "general-problems.json"
+    },
+    {
+      "id": "8a9931bc675b",
+      "question": "Two frogs jump along a straight line in the same direction, starting at the same place. Every ten seconds, each frog jumps 2, 4, or 6 feet, with each possibility being equally likely. What is the probability that the frogs have traveled the same distance after thirty seconds?",
+      "source": "general-problems.json"
+    },
+    {
+      "id": "37eb9f34de34",
+      "question": "How many trailing zeros does the value 300·305·310·…·1090·1095·1100 end with?",
+      "source": "general-problems.json"
+    },
+    {
+      "id": "4019a3f55f2a",
+      "question": "Let A, B, and C be three points on a line (in that order), and let X and Y be two points on the same side of line AC. If △AXB ∼ △BYC and the ratio of the area of quadrilateral AXYC to the area of △AXB is 111:1, compute BC/BA.",
+      "source": "general-problems.json"
+    },
+    {
+      "id": "71e243d6e5f9",
+      "question": "Aidan has five final exams to take during finals week, each on a different weekday. During finals week, there are heavy storms and there is a 48.8% chance of a tree on campus falling down at some point in any given 24-hour period, where the probability of a tree falling down is uniform for the entire week and independent at different instances in time (i.e., a tree falling down at 9 AM does not affect the probability a tree falls down at 9:05 AM). On each day, if a tree falls down at any point between 9 AM and 5 PM, then Aidan’s final for that day is canceled. What is the probability that at least two of his finals are canceled?",
+      "source": "general-problems.json"
+    },
+    {
+      "id": "c26def3d2125",
+      "question": "Suppose we have a triangle △ABC with AB = 12, AC = 13, and BC = 15. Let I be the incenter of triangle ABC. We draw a line through I parallel to BC intersecting AB at point D and AC at point E. What is the perimeter of triangle △ADE?",
+      "source": "general-problems.json"
+    },
+    {
+      "id": "668248a58695",
+      "question": "Ryan chooses five subsets S1, S2, S3, S4, S5 of {1,2,3,4,5,6,7} such that |S1|=1, |S2|=2, |S3|=3, |S4|=4, and |S5|=5. Moreover, for all 1 ≤ i < j ≤ 5, either Si ∩ Sj = Si or Si ∩ Sj = ∅ (in other words, the intersection of Si and Sj is either Si or the empty set). In how many ways can Ryan select the sets?",
+      "source": "general-problems.json"
+    },
+    {
+      "id": "57687f768f16",
+      "question": "Bernie has an infinite supply of Nerds and Smarties with the property that eating one Nerd increases his IQ by 10 and eating one Smartie increases his IQ by 14. If Bernie currently has an IQ of 99, how many IQ values between 100 and 200, inclusive, can he achieve by eating Nerds and Smarties?",
+      "source": "general-problems.json"
+    },
+    {
+      "id": "1be840a68d5c",
+      "question": "If the sum of the real roots x to each of the equations 2^(2x) − 2^(x+1) + 1 − 1/k^2 = 0 for k = 2, 3, …, 2023 is N, what is 2N?",
+      "source": "general-problems.json"
+    },
+    {
+      "id": "df7ebfba4304",
+      "question": "Equilateral triangle △ABC is inscribed in circle Ω, which has a radius of 1. Let the midpoint of BC be M. Line AM intersects Ω again at point D. Let ω be the circle with diameter MD. Compute the radius of the circle that is tangent to BC on the same side of BC as ω, internally tangent to Ω, and externally tangent to ω.",
+      "source": "general-problems.json"
+    },
+    {
+      "id": "d8877d8a5d07",
+      "question": "If (a,b) is a point on the circle centered at (5,0) with radius 4 in the xy-plane, compute the maximum possible value of (a²+7b²)/(2a²+b²).",
+      "source": "general-problems.json"
+    },
+    {
+      "id": "106237b853bc",
+      "question": "An ant begins walking while facing due east and every second turns 60° clockwise or counterclockwise, each with probability 1/2. After the first turn the ant makes, what is the expected number of turns (not including the first turn) it makes before facing due east again?",
+      "source": "general-problems.json"
+    },
+    {
+      "id": "817b9964c758",
+      "question": "Equilateral triangle △ABC has side length 12 and equilateral triangles of side lengths a, b, c < 6 are each cut from a vertex of △ABC, leaving behind an equiangular hexagon A1A2B1B2C1C2, where A1 lies on AC, A2 lies on AB, and the rest of the vertices are similarly defined. Let A3 be the midpoint of A1A2 and define B3, C3 similarly. Let the center of △ABC be O. Note that OA3, OB3, OC3 split the hexagon into three pentagons. If the sum of the areas of the equilateral triangles cut out is 18√3 and the ratio of the areas of the pentagons is 5:6:7, what is the value of abc?",
+      "source": "general-problems.json"
+    },
+    {
+      "id": "3d0318b08180",
+      "question": "Consider a sequence F0 = 2, F1 = 3 that has the property F_{n+1}F_{n-1} − F_n^2 = (−1)^n·2. If each term of the sequence can be written in the form a·r1^n + b·r2^n, what is the positive difference between r1 and r2?",
+      "source": "general-problems.json"
+    },
+    {
+      "id": "cb07ab396502",
+      "question": "You’re at a carnival and enter to play a dart-throwing game. The dartboard consists of three concentric circles of radii 2 inches, 4 inches, and 6 inches. If the dart lands in the innermost circle, you win $4, if it lands in between the first and second circles, you lose $2, and if it lands in between the second and third circles, you win $1. How many dollars should you have to pay to play in order to make it a fair game?",
+      "source": "general-tiebreaker-problems.json"
+    },
+    {
+      "id": "a4f0bf711a48",
+      "question": "Three spheres of radius 6 have centers at points A, B, C. Triangle △ABC is equilateral with side length s. Suppose there are two points at which all three spheres intersect. If the distance between those two points is 2√3, compute s.",
+      "source": "general-tiebreaker-problems.json"
+    },
+    {
+      "id": "bc0917ff2124",
+      "question": "f(x) is a nonconstant polynomial. Given that f(f(x)) +f(x) =f(x)2, compute f(3).",
+      "source": "general-tiebreaker-problems.json"
+    },
+    {
+      "id": "1c7aef7d158c",
+      "question": "1. Let A1A2…A12 be a regular dodecagon. Equilateral triangles △A1A2B1, △A2A3B2, …, and △A12A1B12 are drawn such that points B1, B2, …, and B12 lie outside dodecagon A1A2…A12. Then, equilateral triangles △A1A2C1, △A2A3C2, …, and △A12A1C12 are drawn such that points C1, C2, …, and C12 lie inside dodecagon A1A2…A12. Compute the ratio of the area of dodecagon B1B2…B12 to the area of dodecagon C1C2…C12.",
+      "source": "geometry-problems.json"
+    },
+    {
+      "id": "43805c4a4509",
+      "question": "2. Triangle △ABC has side lengths AB = 39, BC = 16, and CA = 25. What is the volume of the solid formed by rotating △ABC about line BC?",
+      "source": "geometry-problems.json"
+    },
+    {
+      "id": "7dd8345f5d0b",
+      "question": "3. Consider an equilateral triangle △ABC of side length 4. In the zeroth iteration, draw a circle Ω0 tangent to all three sides of the triangle. In the first iteration, draw circles Ω1A, Ω1B, Ω1C such that circle Ω1v is externally tangent to Ω0 and tangent to the two sides that meet at vertex v (for example, Ω1A would be tangent to Ω0 and sides AB, AC). In the nth iteration, draw circle Ωnv externally tangent to Ω(n−1),v and the two sides that meet at vertex v. Compute the total area of all the drawn circles as the number of iterations approaches infinity.",
+      "source": "geometry-problems.json"
+    },
+    {
+      "id": "925f02dc8647",
+      "question": "4. Equilateral triangle △ABC is inscribed in circle Ω, which has a radius of 1. Let the midpoint of BC be M. Line AM intersects Ω again at point D. Let ω be the circle with diameter MD. Compute the radius of the circle that is tangent to BC on the same side of BC as ω, internally tangent to Ω, and externally tangent to ω.",
+      "source": "geometry-problems.json"
+    },
+    {
+      "id": "9fe96da8fd0f",
+      "question": "5. Equilateral triangle △ABC has side length 12 and equilateral triangles of side lengths a, b, c < 6 are each cut from a vertex of △ABC, leaving behind an equiangular hexagon A1A2B1B2C1C2, where A1 lies on AC, A2 lies on AB, and the rest of the vertices are similarly defined. Let A3 be the midpoint of A1A2 and define B3, C3 similarly. Let the center of △ABC be O. Note that OA3, OB3, OC3 split the hexagon into three pentagons. If the sum of the areas of the equilateral triangles cut out is 18√3 and the ratio of the areas of the pentagons is 5 : 6 : 7, what is the value of abc?",
+      "source": "geometry-problems.json"
+    },
+    {
+      "id": "0d11bd708c47",
+      "question": "6. Let ABC be a triangle and ω1 its incircle. Let points D and E be on segments AB, AC respectively such that DE is parallel to BC and tangent to ω1. Now let ω2 be the incircle of △ADE and let points F and G be on segments AD, AE respectively such that FG is parallel to DE and tangent to ω2. Given that ω2 is tangent to line AF at point X and line AG at point Y, the radius of ω1 is 60, and 4(AX) = 5(FG) = 4(AY), compute the radius of ω2.",
+      "source": "geometry-problems.json"
+    },
+    {
+      "id": "e3b76d591f4b",
+      "question": "7. Triangle ABC has AC = 5. D and E are on side BC such that AD and AE trisect ∠BAC, with D closer to B and DE = 3/2, EC = 5/2. From B and E, altitudes BF and EG are drawn onto side AC. Compute  CF/CG – AF/AG.",
+      "source": "geometry-problems.json"
+    },
+    {
+      "id": "9c1d3a06a0b3",
+      "question": "8. In triangle △ABC, point R lies on the perpendicular bisector of AC such that CA bisects ∠BAR. Line BR intersects AC at Q, and the circumcircle of △ARC intersects segment AB at P ≠ A. If AP = 1, PB = 5, and AQ = 2, compute AR.",
+      "source": "geometry-problems.json"
+    },
+    {
+      "id": "1bac9c7e8920",
+      "question": "9. Triangle △ABC is isosceles with AC = AB, BC = 1, and ∠BAC = 36°. Let ω be a circle with center B and radius rω = PABC/4, where PABC denotes the perimeter of △ABC. Let ω intersect line AB at P and line BC at Q. Let IB be the center of the excircle of △ABC with respect to B, and let BIB intersect PQ at S. We draw a tangent line from S to ⊙IB that intersects ⊙IB at point T. Compute the length of ST.",
+      "source": "geometry-problems.json"
+    },
+    {
+      "id": "2f3d76d2e456",
+      "question": "10. Let △ABC be a triangle with side lengths AB = 13, BC = 14, and CA = 15. The angle bisector of ∠BAC, the angle bisector of ∠ABC, and the angle bisector of ∠ACB intersect the circumcircle of △ABC again at points D, E, and F, respectively. Compute the area of hexagon AFBDCE.",
+      "source": "geometry-problems.json"
+    },
+    {
+      "id": "fbf5f22975c8",
+      "question": "Let ω be a circle with radius 1. Equilateral triangle △ABC is tangent to ω at the midpoint of side BC and ω lies outside △ABC. If line AB is tangent to ω, compute the side length of △ABC.",
+      "source": "geometry-tiebreaker-problems.json"
+    },
+    {
+      "id": "7cfbc4dc1faf",
+      "question": "Triangle △ABC has side lengths AB = 3, AC = 2 and angle ∠CBA = 30°. Let the possible lengths of BC be l₁ and l₂, where l₂ > l₁. Compute l₂ / l₁.",
+      "source": "geometry-tiebreaker-problems.json"
+    },
+    {
+      "id": "f59db01cf0ca",
+      "question": "Triangle △ABC has side lengths AB = 5, BC = 8, and CA = 7. Let the perpendicular bisector of BC intersect the circumcircle of △ABC at point D on minor arc BC and point E on minor arc AC, and AC at point F. The line parallel to BC passing through F intersects AD at point G and CE at point H. Compute [CHF] / [DGF].",
+      "source": "geometry-tiebreaker-problems.json"
+    },
+    {
+      "id": "3cda8e296694",
+      "question": "To convert between Fahrenheit, F, and Celsius, C, the formula is F=9/5C+32. Jennifer, having no time to be this precise, instead approximates the temperature of Fahrenheit, bF, as bF=2C+30. There is a range of temperatures C1≤C≤C2 such that for any C in this range, |bF−F|≤5. Compute the ordered pair (C1, C2).",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "9dd886f9e521",
+      "question": "Compute integer x such that x^23=27368747340080916343.",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "9384e12ed4e6",
+      "question": "The number of ways to flip n fair coins such that there are no three heads in a row can be expressed with the recurrence relation S(n+1)=a0S(n)+a1S(n−1)+…+akS(n−k) for sufficiently large n and k where S(n) is the number of valid sequences of length n. What is ∑_{n=0}^k |a_n|?",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "381da8a56de9",
+      "question": "For how many three-digit multiples of 11 in the form abc does the quadratic ax^2+bx+c have real roots?",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "60543af60482",
+      "question": "William draws a triangle △ABC with AB=√3, BC=1, and AC=2 on a piece of paper and cuts out △ABC. Let the angle bisector of ∠ABC meet AC at point D. He folds △ABD over BD. Denote the new location of point A as A′. After William folds △A′CD over CD, what area of the resulting figure is covered by three layers of paper?",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "d9ed4b31f01e",
+      "question": "Compute (1)(2)(3)+(2)(3)(4)+…+(18)(19)(20).",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "9b60c7118d9b",
+      "question": "An ant starts at the point (0, 0). It travels along the integer lattice, at each lattice point choosing the positive x or y direction with equal probability. If the ant reaches (20, 23), what is the probability it did not pass through (20, 20)?",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "c281d0599334",
+      "question": "Let a0=2023 and a_n be the sum of all divisors of a_{n−1} for all n≥1. Compute the sum of the prime numbers that divide a3.",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "be675364e528",
+      "question": "Five circles of radius one are stored in a box of base length five as in the following diagram. How far above the base of the box are the upper circles touching the sides of the box?",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "6cad5c95f281",
+      "question": "Three rectangles of dimension X×2 and four rectangles of dimension Y×1 are the pieces that form a rectangle of area 3XY where X and Y are positive, integer values. What is the sum of all possible values of X?",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "895259c0d9fd",
+      "question": "Suppose we have a polynomial p(x)=x^2+ax+b with real coefficients a+b=1000 and b>0. Find the smallest possible value of b such that p(x) has two integer roots.",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "d65f85c931c0",
+      "question": "Ten square slips of paper of the same size, numbered 0, 1, 2, …, 9, are placed into a bag. Four of these squares are then randomly chosen and placed into a two-by-two grid of squares. What is the probability that the numbers in every pair of blocks sharing a side have an absolute difference no greater than two?",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "0b266dc2e7a7",
+      "question": "Let △ABC be an equilateral triangle with side length 1. Let the unit circles centered at A, B, and C be ΩA, ΩB, and ΩC, respectively. Then, let ΩA and ΩC intersect again at point D, and ΩB and ΩC intersect again at point E. Line BD intersects ΩB at point F where F lies between B and D, and line AE intersects ΩA at point G where G lies between A and E. BD and AE intersect at H. Finally, let CH and FG intersect at I. Compute IH.",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "f3da8eb6111f",
+      "question": "Suppose Bob randomly fills in a 45×45 grid with the numbers from 1 to 2025, using each number exactly once. For each of the 45 rows, he writes down the largest number in the row. Of these 45 numbers, he writes down the second largest number. The probability that this final number is equal to 2023 can be expressed as p/q where p and q are relatively prime positive integers. Compute the value of p.",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "e95a083bc049",
+      "question": "f is a bijective function from the set {0, 1, 2, …, 11} to {0, 1, 2, …, 11}, with the property that whenever a divides b, f(a) divides f(b). How many such f are there? A bijective function maps each element in its domain to a distinct element in its range.",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "29084d4ffddd",
+      "question": "When not writing power rounds, Eric likes to climb trees. The strength in his arms as a function of time is s(t)=t^3−3t^2. His climbing velocity as a function of the strength in his arms is v(s)=s^5+9s^4+19s^3−9s^2−20s. At how many (possibly negative) points in time is Eric stationary?",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "f1fbfd1964ae",
+      "question": "Consider a triangle △ABC with angles ∠ACB=60°, ∠ABC=45°. The circumcircle around △ABH, where H is the orthocenter of △ABC, intersects BC for a second time in point P, and the center of that circumcircle is Oc. The line PH intersects AC in point Q, and N is the center of the circumcircle around △AQP. Find ∠NOcP.",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "abc00c13fa01",
+      "question": "If x, y are positive real numbers and xy^3=16/9, what is the minimum possible value of 3x+y?",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "5b5959aef2ae",
+      "question": "A1A2…A12 is a regular dodecagon with side length 1 and center at point O. What is the area of the region covered by circles (A1A2O), (A3A4O), (A5A6O), (A7A8O), (A9A10O), and (A11A12O)? (ABC) denotes the circle passing through points A, B, and C.",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "d37aada71020",
+      "question": "Let N=2000…0x0…00023 be a 2023-digit number where the x is the 23rd digit from the right. If N is divisible by 13, compute x.",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "ff5cfbd0d27a",
+      "question": "Alice and Bob each visit the dining hall to get a grilled cheese at a uniformly random time between 12 PM and 1 PM (their arrival times are independent) and, after arrival, will wait there for a uniformly random amount of time between 0 and 30 minutes. What is the probability that they will meet?",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "bb50c6805b99",
+      "question": "Consider the series {An}_{n=0}^∞, where A0=1 and for every n>0, An=⌊n/2023⌋+⌊n/2023^2⌋+⌊n/2023^3⌋ (where ⌊x⌋ denotes the largest integer ≤x). Find the (2023^2+20)-th element of the series.",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "9866f3fb1067",
+      "question": "The side lengths of triangle △ABC are 5, 7, and 8. Construct equilateral triangles △A1BC, △B1CA, and △C1AB such that A1, B1, C1 lie outside of △ABC. Let A2, B2, and C2 be the centers of △A1BC, △B1CA, and △C1AB, respectively. What is the area of △A2B2C2?",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "bd569a9127a2",
+      "question": "There are 20 people participating in a random tag game around a 20-gon. Whenever two people end up at the same vertex, if one of them is a tagger then the other also becomes a tagger. A round consists of everyone moving to a random vertex on the 20-gon. If there are currently 10 taggers, let E be the expected number of untagged people at the end of the next round. If E can be written as a/b for a, b relatively prime positive integers, compute a+b.",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "783e79ef2456",
+      "question": "You are given that 1000! has 2568 decimal digits. Call a permutation π of length 1000 good if π(2i)>π(2i−1) for all 1≤i≤500 and π(2i)>π(2i+1) for all 1≤i≤499. Let N be the number of good permutations. Estimate D, the number of decimal digits in N. You will get max{0, 25−l|D−X|/10^m} points, where X is the true answer.",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "52dafdbd731b",
+      "question": "A year is said to be interesting if it is the product of 3, not necessarily distinct, primes (for example 2^2·5 is interesting, but 2^2·3·5 is not). How many interesting years are there between 5000 and 10000, inclusive? For an estimate of E, you will get max{0, 25−l|E−X|/10^m} points, where X is the true answer.",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "5f0f15591726",
+      "question": "Sam chooses 1000 random lattice points (x, y) with 1≤x, y≤1000 such that all pairs (x, y) are distinct. Let N be the expected size of the maximum collinear set among them. Estimate ⌊100N⌋. Let S be the answer you provide and X be the true value of ⌊100N⌋. You will get max{0, 25−l|S−X|/10^m} points for your estimate.",
+      "source": "guts-problems.json"
+    },
+    {
+      "id": "e3d999e5f5ba",
+      "question": "1. We call a time on a 12 hour digital clock nice if the sum of the minutes digits is equal to the hour. For example, 10:55, 3:12 and 5:05 are nice times. How many nice times occur during the course of one day? (We do not consider times of the form 00:XX.)",
+      "source": "team-problems.json"
+    },
+    {
+      "id": "bd45d0747ca6",
+      "question": "2. Along Stanford’s University Avenue are 2023 palm trees which are either red, green, or blue. Let the positive integers R, G, B be the number of red, green, and blue palm trees respectively. Given that R³ + 2B + G = 12345, compute R.",
+      "source": "team-problems.json"
+    },
+    {
+      "id": "de671ab248cb",
+      "question": "3. Five integers are each selected uniformly at random from the range 1 to 5 inclusive and put into a set S. Each integer is selected independently of the others. What is the expected value of the minimum element of S?",
+      "source": "team-problems.json"
+    },
+    {
+      "id": "4997efbfb740",
+      "question": "4. Cornelius chooses three complex numbers a, b, c uniformly at random from the complex unit circle. Given that the real parts of a·c and b·c are 1/10, compute the expected value of the real part of a·b.",
+      "source": "team-problems.json"
+    },
+    {
+      "id": "84b37f410ee7",
+      "question": "5. A computer virus starts off infecting a single device. Every second an infected computer has a 7/30 chance to stay infected and not do anything else, a 7/15 chance to infect a new computer, and a 1/6 chance to infect two new computers. Otherwise (a 2/15 chance), the virus gets exterminated, but other copies of it on other computers are unaffected. Compute the probability that a single infected computer produces an infinite chain of infections.",
+      "source": "team-problems.json"
+    },
+    {
+      "id": "4644fd24ec58",
+      "question": "6. In the language of Blah, there is a unique word for every integer between 0 and 98 inclusive. A team of students has an unordered list of these 99 words, but does not know what integer each word corresponds to. However, the team is given access to a machine that, given two (not necessarily distinct) words in Blah, outputs the word in Blah corresponding to the sum modulo 99 of their corresponding integers. What is the minimum N such that the team can narrow down the possible translations of “1” to a list of N Blah words, using the machine as many times as they want?",
+      "source": "team-problems.json"
+    },
+    {
+      "id": "ba313582d847",
+      "question": "7. Compute ∏<sub>t=1</sub><sup>∞</sup> (1 + ∑<sub>k=1</sub><sup>∞</sup>(∑<sub>j=1</sub><sup>∞</sup>(1 + k)<sup>−j</sup>)²)<sup>−t</sup>.",
+      "source": "team-problems.json"
+    },
+    {
+      "id": "5674af30030a",
+      "question": "8. What is the area that is swept out by a regular hexagon of side length 1 as it rotates 30° about its center?",
+      "source": "team-problems.json"
+    },
+    {
+      "id": "53d11f71cdd4",
+      "question": "9. Let A be the area enclosed by the relation x² + y² ≤ 2023. Let B be the area enclosed by the relation x<sup>2n</sup> + y<sup>2n</sup> ≤ (A·7/(16π))<sup>n/2</sup>. Compute lim<sub>n→∞</sub> B for n ∈ ℕ.",
+      "source": "team-problems.json"
+    },
+    {
+      "id": "b188c474d982",
+      "question": "10. Let S = {1, 6, 10, …} be the set of positive integers which are the product of an even number of distinct primes (including 1). Let T = {2, 3, …} be the set of positive integers which are the product of an odd number of distinct primes. Compute ∑<sub>n∈S, n≤2023</sub> n − ∑<sub>n∈T, n≤2023</sub> n.",
+      "source": "team-problems.json"
+    },
+    {
+      "id": "2bdd401e8664",
+      "question": "11. Define the Fibonacci sequence by F₀ = 0, F₁ = 1, and F<sub>i</sub> = F<sub>i−1</sub> + F<sub>i−2</sub> for i ≥ 2. Compute lim<sub>n→∞</sub> F<sub>F<sub>n+1</sub>+1</sub> / (F<sub>F<sub>n</sub></sub>·F<sub>F<sub>n−1</sub></sub> − 1).",
+      "source": "team-problems.json"
+    },
+    {
+      "id": "42d0a64165bf",
+      "question": "12. Let A, B, C, and D be points in the plane with integer coordinates such that no three are collinear, and where the distances AB, AC, AD, BC, BD, and CD are all integers. Compute the smallest possible length of a side of a convex quadrilateral formed by such points.",
+      "source": "team-problems.json"
+    },
+    {
+      "id": "7e4427d2e169",
+      "question": "13. Suppose the real roots of p(x) = x⁹ + 16x⁸ + 60x⁷ + 1920x² + 2048x + 512 are r₁, r₂, …, rₖ (roots may be repeated). Compute ∑<sub>i=1</sub><sup>k</sup> 2<sup>−r<sub>i</sub></sup>.",
+      "source": "team-problems.json"
+    },
+    {
+      "id": "ccea5de5be08",
+      "question": "14. A teacher stands at (0, 10) and has some students, where there is exactly one student at each integer position in the following triangle (the teacher is at the apex (0, 10) and the triangle extends until and includes the column x = 21). A teacher can see a student (i, j) if there is no student in the direct line of sight between the teacher and (i, j). Compute the number of students the teacher can see (assume that each student has no width—that is, each student is a point).",
+      "source": "team-problems.json"
+    },
+    {
+      "id": "4f375c1bd654",
+      "question": "15. Suppose we have a right triangle △ABC with A as the right angle and lengths AB = AC = 2. Suppose we have points D, E, and F on AB, AC, and BC respectively with DE ⟂ EF. What is the minimum possible length of DF?",
+      "source": "team-problems.json"
+    }
+  ]
+}
