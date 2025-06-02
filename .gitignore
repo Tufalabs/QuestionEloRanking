@@ -2,3 +2,6 @@ set_api_keys.sh
 
 utils/inference.py
 .DS_Store
+
+myenv/
+venv/   

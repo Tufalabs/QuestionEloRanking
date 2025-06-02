@@ -1,692 +1,6016 @@
 {
-  "035320f48fce": {
-    "matches": 19,
-    "rating": 1203,
-    "uncertainty": 0.22941573387056174
-  },
-  "0aafaa7e6821": {
-    "matches": 0,
-    "rating": 1195,
-    "uncertainty": null
-  },
-  "0b266dc2e7a7": {
-    "matches": 0,
-    "rating": 1211,
-    "uncertainty": null
-  },
-  "0d11bd708c47": {
-    "matches": 0,
-    "rating": 1200,
-    "uncertainty": null
-  },
-  "0e7ebd96c908": {
-    "matches": 38,
-    "rating": 1211,
-    "uncertainty": 0.16222142113076254
-  },
-  "106237b853bc": {
-    "matches": 19,
-    "rating": 1150,
-    "uncertainty": 0.22941573387056174
-  },
-  "11a53b1b4b04": {
-    "matches": 38,
-    "rating": 1163,
-    "uncertainty": 0.16222142113076254
-  },
-  "1bac9c7e8920": {
-    "matches": 0,
-    "rating": 1216,
-    "uncertainty": null
-  },
-  "1be840a68d5c": {
-    "matches": 0,
-    "rating": 1200,
-    "uncertainty": null
-  },
-  "1c7aef7d158c": {
-    "matches": 38,
-    "rating": 1305,
-    "uncertainty": 0.16222142113076254
-  },
-  "2202dce81957": {
-    "matches": 19,
-    "rating": 1209,
-    "uncertainty": 0.22941573387056174
-  },
-  "270f64b1398a": {
-    "matches": 19,
-    "rating": 1277,
-    "uncertainty": 0.22941573387056174
-  },
-  "29084d4ffddd": {
-    "matches": 38,
-    "rating": 1166,
-    "uncertainty": 0.16222142113076254
-  },
-  "299f8d978c19": {
-    "matches": 19,
-    "rating": 1171,
-    "uncertainty": 0.22941573387056174
-  },
-  "2bdd401e8664": {
-    "matches": 38,
-    "rating": 1271,
-    "uncertainty": 0.16222142113076254
-  },
-  "2f3d76d2e456": {
-    "matches": 19,
-    "rating": 1238,
-    "uncertainty": 0.22941573387056174
-  },
-  "3118f73d41d8": {
-    "matches": 0,
-    "rating": 1200,
-    "uncertainty": null
-  },
-  "37821970bc94": {
-    "matches": 19,
-    "rating": 1183,
-    "uncertainty": 0.22941573387056174
-  },
-  "37eb9f34de34": {
-    "matches": 0,
-    "rating": 1189,
-    "uncertainty": null
-  },
-  "381da8a56de9": {
-    "matches": 19,
-    "rating": 1162,
-    "uncertainty": 0.22941573387056174
-  },
-  "3927bf9f7a39": {
-    "matches": 38,
-    "rating": 1129,
-    "uncertainty": 0.16222142113076254
-  },
-  "3cda8e296694": {
-    "matches": 19,
-    "rating": 1180,
-    "uncertainty": 0.22941573387056174
-  },
-  "3d0318b08180": {
-    "matches": 19,
-    "rating": 1247,
-    "uncertainty": 0.22941573387056174
-  },
-  "3d2fa978f102": {
-    "matches": 0,
-    "rating": 1206,
-    "uncertainty": null
-  },
-  "3eb759f71724": {
-    "matches": 0,
-    "rating": 1194,
-    "uncertainty": null
-  },
-  "4019a3f55f2a": {
-    "matches": 19,
-    "rating": 1244,
-    "uncertainty": 0.22941573387056174
-  },
-  "40449d6fbef3": {
-    "matches": 0,
-    "rating": 1224,
-    "uncertainty": null
-  },
-  "42d0a64165bf": {
-    "matches": 38,
-    "rating": 1167,
-    "uncertainty": 0.16222142113076254
-  },
-  "43805c4a4509": {
-    "matches": 38,
-    "rating": 1237,
-    "uncertainty": 0.16222142113076254
-  },
-  "45a721c9fc5c": {
-    "matches": 19,
-    "rating": 1179,
-    "uncertainty": 0.22941573387056174
-  },
-  "4644fd24ec58": {
-    "matches": 38,
-    "rating": 1185,
-    "uncertainty": 0.16222142113076254
-  },
-  "480b5e8a2243": {
-    "matches": 38,
-    "rating": 1262,
-    "uncertainty": 0.16222142113076254
-  },
-  "4997efbfb740": {
-    "matches": 19,
-    "rating": 1230,
-    "uncertainty": 0.22941573387056174
-  },
-  "4c1055de1587": {
-    "matches": 19,
-    "rating": 1231,
-    "uncertainty": 0.22941573387056174
-  },
-  "4dcdb3f4e215": {
-    "matches": 0,
-    "rating": 1185,
-    "uncertainty": null
-  },
-  "4f375c1bd654": {
-    "matches": 38,
-    "rating": 1201,
-    "uncertainty": 0.16222142113076254
-  },
-  "52dafdbd731b": {
-    "matches": 19,
-    "rating": 1248,
-    "uncertainty": 0.22941573387056174
-  },
-  "53d11f71cdd4": {
-    "matches": 38,
-    "rating": 1227,
-    "uncertainty": 0.16222142113076254
-  },
-  "54b531216038": {
-    "matches": 0,
-    "rating": 1184,
-    "uncertainty": null
-  },
-  "5674af30030a": {
-    "matches": 19,
-    "rating": 1272,
-    "uncertainty": 0.22941573387056174
-  },
-  "57687f768f16": {
-    "matches": 38,
-    "rating": 1064,
-    "uncertainty": 0.16222142113076254
-  },
-  "5b5959aef2ae": {
-    "matches": 19,
-    "rating": 1155,
-    "uncertainty": 0.22941573387056174
-  },
-  "5d960edc8e30": {
-    "matches": 19,
-    "rating": 1205,
-    "uncertainty": 0.22941573387056174
-  },
-  "5e02f0b5dc20": {
-    "matches": 38,
-    "rating": 1168,
-    "uncertainty": 0.16222142113076254
-  },
-  "5f0f15591726": {
-    "matches": 0,
-    "rating": 1216,
-    "uncertainty": null
-  },
-  "60543af60482": {
-    "matches": 38,
-    "rating": 1294,
-    "uncertainty": 0.16222142113076254
-  },
-  "615341f3b9fe": {
-    "matches": 19,
-    "rating": 1248,
-    "uncertainty": 0.22941573387056174
-  },
-  "61fb8f538351": {
-    "matches": 38,
-    "rating": 1124,
-    "uncertainty": 0.16222142113076254
-  },
-  "636501d873eb": {
-    "matches": 0,
-    "rating": 1201,
-    "uncertainty": null
-  },
-  "6627cdaa91fe": {
-    "matches": 38,
-    "rating": 1179,
-    "uncertainty": 0.16222142113076254
-  },
-  "664bb509d289": {
-    "matches": 0,
-    "rating": 1200,
-    "uncertainty": null
-  },
-  "668248a58695": {
-    "matches": 38,
-    "rating": 1200,
-    "uncertainty": 0.16222142113076254
-  },
-  "6cad5c95f281": {
-    "matches": 0,
-    "rating": 1186,
-    "uncertainty": null
-  },
-  "6f20c0112d51": {
-    "matches": 19,
-    "rating": 1106,
-    "uncertainty": 0.22941573387056174
-  },
-  "70737b0ba880": {
-    "matches": 19,
-    "rating": 1250,
-    "uncertainty": 0.22941573387056174
-  },
-  "70deeec37fa7": {
-    "matches": 19,
-    "rating": 1143,
-    "uncertainty": 0.22941573387056174
-  },
-  "71e243d6e5f9": {
-    "matches": 19,
-    "rating": 1148,
-    "uncertainty": 0.22941573387056174
-  },
-  "72e873ad8595": {
-    "matches": 0,
-    "rating": 1216,
-    "uncertainty": null
-  },
-  "783e79ef2456": {
-    "matches": 0,
-    "rating": 1214,
-    "uncertainty": null
-  },
-  "787dc3aac2ec": {
-    "matches": 57,
-    "rating": 1272,
-    "uncertainty": 0.13245323570650439
-  },
-  "7cfbc4dc1faf": {
-    "matches": 19,
-    "rating": 1180,
-    "uncertainty": 0.22941573387056174
-  },
-  "7dd8345f5d0b": {
-    "matches": 19,
-    "rating": 1223,
-    "uncertainty": 0.22941573387056174
-  },
-  "7e4427d2e169": {
-    "matches": 19,
-    "rating": 1163,
-    "uncertainty": 0.22941573387056174
-  },
-  "817b9964c758": {
-    "matches": 0,
-    "rating": 1200,
-    "uncertainty": null
-  },
-  "8217f6de364c": {
-    "matches": 57,
-    "rating": 1212,
-    "uncertainty": 0.13245323570650439
-  },
-  "84b37f410ee7": {
-    "matches": 0,
-    "rating": 1216,
-    "uncertainty": null
-  },
-  "8684a1cb7129": {
-    "matches": 19,
-    "rating": 1187,
-    "uncertainty": 0.22941573387056174
-  },
-  "87a951a4a7a8": {
-    "matches": 0,
-    "rating": 1168,
-    "uncertainty": null
-  },
-  "895259c0d9fd": {
-    "matches": 57,
-    "rating": 1150,
-    "uncertainty": 0.13245323570650439
-  },
-  "8a9931bc675b": {
-    "matches": 0,
-    "rating": 1198,
-    "uncertainty": null
-  },
-  "8bc8da976d4b": {
-    "matches": 38,
-    "rating": 1153,
-    "uncertainty": 0.16222142113076254
-  },
-  "91448669ace9": {
-    "matches": 0,
-    "rating": 1200,
-    "uncertainty": null
-  },
-  "9212f9a75e95": {
-    "matches": 0,
-    "rating": 1186,
-    "uncertainty": null
-  },
-  "925f02dc8647": {
-    "matches": 19,
-    "rating": 1209,
-    "uncertainty": 0.22941573387056174
-  },
-  "92b1a23ec817": {
-    "matches": 19,
-    "rating": 1173,
-    "uncertainty": 0.22941573387056174
-  },
-  "9384e12ed4e6": {
-    "matches": 0,
-    "rating": 1186,
-    "uncertainty": null
-  },
-  "96804461623e": {
-    "matches": 19,
-    "rating": 1113,
-    "uncertainty": 0.22941573387056174
-  },
-  "9866f3fb1067": {
-    "matches": 19,
-    "rating": 1204,
-    "uncertainty": 0.22941573387056174
-  },
-  "9b60c7118d9b": {
-    "matches": 19,
-    "rating": 1169,
-    "uncertainty": 0.22941573387056174
-  },
-  "9c1d3a06a0b3": {
-    "matches": 19,
-    "rating": 1157,
-    "uncertainty": 0.22941573387056174
-  },
-  "9dd886f9e521": {
-    "matches": 19,
-    "rating": 1185,
-    "uncertainty": 0.22941573387056174
-  },
-  "9fe96da8fd0f": {
-    "matches": 19,
-    "rating": 1272,
-    "uncertainty": 0.22941573387056174
-  },
-  "a212125f0cac": {
-    "matches": 0,
-    "rating": 1196,
-    "uncertainty": null
-  },
-  "a2e0e808f81a": {
-    "matches": 0,
-    "rating": 1205,
-    "uncertainty": null
-  },
-  "a4f0bf711a48": {
-    "matches": 57,
-    "rating": 1282,
-    "uncertainty": 0.13245323570650439
-  },
-  "a51f95a60976": {
-    "matches": 19,
-    "rating": 1230,
-    "uncertainty": 0.22941573387056174
-  },
-  "aa19e990bfcb": {
-    "matches": 57,
-    "rating": 1168,
-    "uncertainty": 0.13245323570650439
-  },
-  "abc00c13fa01": {
-    "matches": 0,
-    "rating": 1154,
-    "uncertainty": null
-  },
-  "ad2c446ea65e": {
-    "matches": 57,
-    "rating": 1221,
-    "uncertainty": 0.13245323570650439
-  },
-  "aedc7a495cb8": {
-    "matches": 19,
-    "rating": 1189,
-    "uncertainty": 0.22941573387056174
-  },
-  "afda2a3a73e0": {
-    "matches": 0,
-    "rating": 1213,
-    "uncertainty": null
-  },
-  "b11ac925c4bf": {
-    "matches": 0,
-    "rating": 1202,
-    "uncertainty": null
-  },
-  "b188c474d982": {
-    "matches": 19,
-    "rating": 1204,
-    "uncertainty": 0.22941573387056174
-  },
-  "b197ae0a2551": {
-    "matches": 0,
-    "rating": 1218,
-    "uncertainty": null
-  },
-  "b2109390e4bc": {
-    "matches": 19,
-    "rating": 1161,
-    "uncertainty": 0.22941573387056174
-  },
-  "ba313582d847": {
-    "matches": 38,
-    "rating": 1316,
-    "uncertainty": 0.16222142113076254
-  },
-  "bb50c6805b99": {
-    "matches": 38,
-    "rating": 1234,
-    "uncertainty": 0.16222142113076254
-  },
-  "bb6ccbf8bcec": {
-    "matches": 19,
-    "rating": 1129,
-    "uncertainty": 0.22941573387056174
-  },
-  "bc0917ff2124": {
-    "matches": 38,
-    "rating": 1230,
-    "uncertainty": 0.16222142113076254
-  },
-  "bd45d0747ca6": {
-    "matches": 0,
-    "rating": 1173,
-    "uncertainty": null
-  },
-  "bd569a9127a2": {
-    "matches": 38,
-    "rating": 1250,
-    "uncertainty": 0.16222142113076254
-  },
-  "bdb5df591bf3": {
-    "matches": 0,
-    "rating": 1226,
-    "uncertainty": null
-  },
-  "be675364e528": {
-    "matches": 38,
-    "rating": 1131,
-    "uncertainty": 0.16222142113076254
-  },
-  "c152af22a2f8": {
-    "matches": 0,
-    "rating": 1194,
-    "uncertainty": null
-  },
-  "c26def3d2125": {
-    "matches": 38,
-    "rating": 1189,
-    "uncertainty": 0.16222142113076254
-  },
-  "c281d0599334": {
-    "matches": 0,
-    "rating": 1174,
-    "uncertainty": null
-  },
-  "c49a0690436e": {
-    "matches": 19,
-    "rating": 1216,
-    "uncertainty": 0.22941573387056174
-  },
-  "c4bb8298123a": {
-    "matches": 0,
-    "rating": 1200,
-    "uncertainty": null
-  },
-  "c7794f8c2436": {
-    "matches": 19,
-    "rating": 1230,
-    "uncertainty": 0.22941573387056174
-  },
-  "c8d6863e6016": {
-    "matches": 19,
-    "rating": 1295,
-    "uncertainty": 0.22941573387056174
-  },
-  "cb07ab396502": {
-    "matches": 19,
-    "rating": 1113,
-    "uncertainty": 0.22941573387056174
-  },
-  "cc3c64572e1c": {
-    "matches": 0,
-    "rating": 1200,
-    "uncertainty": null
-  },
-  "ccea5de5be08": {
-    "matches": 19,
-    "rating": 1250,
-    "uncertainty": 0.22941573387056174
-  },
-  "d20a260819e1": {
-    "matches": 19,
-    "rating": 1218,
-    "uncertainty": 0.22941573387056174
-  },
-  "d37aada71020": {
-    "matches": 0,
-    "rating": 1196,
-    "uncertainty": null
-  },
-  "d65f85c931c0": {
-    "matches": 38,
-    "rating": 1225,
-    "uncertainty": 0.16222142113076254
-  },
-  "d8877d8a5d07": {
-    "matches": 38,
-    "rating": 1189,
-    "uncertainty": 0.16222142113076254
-  },
-  "d9ed4b31f01e": {
-    "matches": 0,
-    "rating": 1184,
-    "uncertainty": null
-  },
-  "db136507e24f": {
-    "matches": 0,
-    "rating": 1215,
-    "uncertainty": null
-  },
-  "dcfe5e4eea20": {
-    "matches": 19,
-    "rating": 1199,
-    "uncertainty": 0.22941573387056174
-  },
-  "dd19572d0828": {
-    "matches": 38,
-    "rating": 1149,
-    "uncertainty": 0.16222142113076254
-  },
-  "de671ab248cb": {
-    "matches": 19,
-    "rating": 1204,
-    "uncertainty": 0.22941573387056174
-  },
-  "df7ebfba4304": {
-    "matches": 0,
-    "rating": 1215,
-    "uncertainty": null
-  },
-  "dfc33fd1bc34": {
-    "matches": 76,
-    "rating": 1061,
-    "uncertainty": 0.11470786693528087
-  },
-  "e291dc815ce0": {
-    "matches": 0,
-    "rating": 1214,
-    "uncertainty": null
-  },
-  "e3b76d591f4b": {
-    "matches": 19,
-    "rating": 1245,
-    "uncertainty": 0.22941573387056174
-  },
-  "e3d999e5f5ba": {
-    "matches": 19,
-    "rating": 1140,
-    "uncertainty": 0.22941573387056174
-  },
-  "e95a083bc049": {
-    "matches": 19,
-    "rating": 1259,
-    "uncertainty": 0.22941573387056174
-  },
-  "eb07c1d0cc63": {
-    "matches": 19,
-    "rating": 1217,
-    "uncertainty": 0.22941573387056174
-  },
-  "f1fbfd1964ae": {
-    "matches": 19,
-    "rating": 1208,
-    "uncertainty": 0.22941573387056174
-  },
-  "f28b586f4218": {
-    "matches": 38,
-    "rating": 1223,
-    "uncertainty": 0.16222142113076254
-  },
-  "f3da8eb6111f": {
-    "matches": 38,
-    "rating": 1195,
-    "uncertainty": 0.16222142113076254
-  },
-  "f59db01cf0ca": {
-    "matches": 19,
-    "rating": 1247,
-    "uncertainty": 0.22941573387056174
-  },
-  "f775020b1e13": {
-    "matches": 38,
-    "rating": 1162,
-    "uncertainty": 0.16222142113076254
-  },
-  "f79fd8fc2239": {
-    "matches": 38,
-    "rating": 1183,
-    "uncertainty": 0.16222142113076254
-  },
-  "f7b86f23b543": {
-    "matches": 0,
-    "rating": 1218,
-    "uncertainty": null
-  },
-  "fbf5f22975c8": {
-    "matches": 0,
-    "rating": 1196,
-    "uncertainty": null
-  },
-  "ff5cfbd0d27a": {
-    "matches": 0,
-    "rating": 1190,
-    "uncertainty": null
+  "ratings": {
+    "00550c404fee": {
+      "matches": 70,
+      "rating": 1429,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "005881b599ae": {
+      "matches": 49,
+      "rating": 1305,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "005e94eadf13": {
+      "matches": 49,
+      "rating": 1035,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "007c2a55f2b9": {
+      "matches": 77,
+      "rating": 924,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "00e93a8f01fd": {
+      "matches": 42,
+      "rating": 942,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "01507cb0b9c5": {
+      "matches": 63,
+      "rating": 1449,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "01a6cadfa167": {
+      "matches": 77,
+      "rating": 1047,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "01af173aafce": {
+      "matches": 42,
+      "rating": 1126,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "01c88ff807f3": {
+      "matches": 56,
+      "rating": 1097,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "01e844ee380d": {
+      "matches": 56,
+      "rating": 1178,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "024a08f011bc": {
+      "matches": 70,
+      "rating": 1195,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "028ecff03dd7": {
+      "matches": 77,
+      "rating": 1310,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "03415fec45d0": {
+      "matches": 56,
+      "rating": 1055,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "037cbec61378": {
+      "matches": 42,
+      "rating": 1224,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "04a66b799fb1": {
+      "matches": 56,
+      "rating": 1034,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "051d8125e3d3": {
+      "matches": 56,
+      "rating": 1043,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "057ec1672d24": {
+      "matches": 77,
+      "rating": 1203,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "05e531c2a281": {
+      "matches": 63,
+      "rating": 1455,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "062b34c1d406": {
+      "matches": 49,
+      "rating": 1368,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "06a20eff3e9f": {
+      "matches": 77,
+      "rating": 896,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "06b21446d960": {
+      "matches": 63,
+      "rating": 1061,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "06be12ba0b6e": {
+      "matches": 42,
+      "rating": 1221,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "0730208241a3": {
+      "matches": 49,
+      "rating": 1282,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "077ed6df890e": {
+      "matches": 56,
+      "rating": 1347,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "07c33ca13617": {
+      "matches": 49,
+      "rating": 1388,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "07f9064fe9de": {
+      "matches": 49,
+      "rating": 1395,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "0820a2ed3fd7": {
+      "matches": 56,
+      "rating": 1373,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "0881b1dcb606": {
+      "matches": 63,
+      "rating": 906,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "088c4842c8b2": {
+      "matches": 63,
+      "rating": 1224,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "08cc662ecc69": {
+      "matches": 49,
+      "rating": 1227,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "08fd663e594b": {
+      "matches": 49,
+      "rating": 1038,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "09227135c45d": {
+      "matches": 70,
+      "rating": 1509,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "093ad45c6964": {
+      "matches": 70,
+      "rating": 1472,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "0952a16a4495": {
+      "matches": 56,
+      "rating": 1265,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "0976c25a7969": {
+      "matches": 63,
+      "rating": 1530,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "09e5a2b6ca46": {
+      "matches": 77,
+      "rating": 1193,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "0a3e457daf52": {
+      "matches": 35,
+      "rating": 1274,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "0a5dae500b2c": {
+      "matches": 56,
+      "rating": 1208,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "0a899dd88032": {
+      "matches": 56,
+      "rating": 1433,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "0b0488ace6a8": {
+      "matches": 56,
+      "rating": 1437,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "0b0cd866ee40": {
+      "matches": 56,
+      "rating": 910,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "0b6fe21fcde9": {
+      "matches": 63,
+      "rating": 1380,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "0b7be56ee13c": {
+      "matches": 42,
+      "rating": 1309,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "0b9905d3d5b5": {
+      "matches": 70,
+      "rating": 1298,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "0bf941eb49a4": {
+      "matches": 49,
+      "rating": 1140,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "0c060fad3ddb": {
+      "matches": 42,
+      "rating": 1320,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "0c09d7141b60": {
+      "matches": 49,
+      "rating": 1055,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "0c4dfe91160f": {
+      "matches": 56,
+      "rating": 1112,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "0c76b08aba34": {
+      "matches": 63,
+      "rating": 998,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "0ca27c15228e": {
+      "matches": 63,
+      "rating": 952,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "0cc41625cacf": {
+      "matches": 84,
+      "rating": 1340,
+      "uncertainty": 0.1091089451179962,
+      "uncertainty_points": 43.64357804719848
+    },
+    "0cd99cf26dc5": {
+      "matches": 63,
+      "rating": 1437,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "0dd1cffed64c": {
+      "matches": 91,
+      "rating": 1023,
+      "uncertainty": 0.10482848367219183,
+      "uncertainty_points": 41.931393468876735
+    },
+    "0dfc9ab01386": {
+      "matches": 49,
+      "rating": 1198,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "0e40a8d5fb71": {
+      "matches": 49,
+      "rating": 1296,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "0e4222a66ed8": {
+      "matches": 42,
+      "rating": 1113,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "0e4db8674910": {
+      "matches": 84,
+      "rating": 1183,
+      "uncertainty": 0.1091089451179962,
+      "uncertainty_points": 43.64357804719848
+    },
+    "0ebceef591a1": {
+      "matches": 49,
+      "rating": 1026,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "0f028ea16496": {
+      "matches": 56,
+      "rating": 918,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "0f301b89faa5": {
+      "matches": 70,
+      "rating": 1293,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "0f8cda1da241": {
+      "matches": 56,
+      "rating": 1205,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "10d74224671e": {
+      "matches": 63,
+      "rating": 1467,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "11056af78a7c": {
+      "matches": 70,
+      "rating": 1346,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "111088e43025": {
+      "matches": 70,
+      "rating": 1286,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "115123a86736": {
+      "matches": 49,
+      "rating": 1037,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "11675e9d5ad9": {
+      "matches": 56,
+      "rating": 1432,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "11bc8db868dd": {
+      "matches": 49,
+      "rating": 1075,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "11cbeed0c1ba": {
+      "matches": 70,
+      "rating": 1047,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "11e2a20598a7": {
+      "matches": 63,
+      "rating": 1010,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "12208a287694": {
+      "matches": 70,
+      "rating": 1496,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "124fd3dfb65a": {
+      "matches": 56,
+      "rating": 1012,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "134028ab3780": {
+      "matches": 56,
+      "rating": 1293,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "13602e2df347": {
+      "matches": 77,
+      "rating": 1176,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "1368809c8904": {
+      "matches": 49,
+      "rating": 1035,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "13697bd1a28a": {
+      "matches": 63,
+      "rating": 1238,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "1372d76e1afa": {
+      "matches": 56,
+      "rating": 1431,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "13dfd009069d": {
+      "matches": 63,
+      "rating": 1312,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "13edeea6fa5d": {
+      "matches": 35,
+      "rating": 1249,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "145f7b4237d8": {
+      "matches": 70,
+      "rating": 1198,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "1465807eb82e": {
+      "matches": 63,
+      "rating": 1035,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "14b40c84459e": {
+      "matches": 56,
+      "rating": 1158,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "14ef2bb82ebc": {
+      "matches": 63,
+      "rating": 1107,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "150918758d31": {
+      "matches": 63,
+      "rating": 1055,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "152eb858b82a": {
+      "matches": 49,
+      "rating": 1337,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "154e227fee3f": {
+      "matches": 56,
+      "rating": 1326,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "157e3e1ef1ee": {
+      "matches": 70,
+      "rating": 1475,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "169645c4a910": {
+      "matches": 63,
+      "rating": 1251,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "16965c64c51e": {
+      "matches": 63,
+      "rating": 915,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "16be6141a670": {
+      "matches": 49,
+      "rating": 1402,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "170bfabcbe96": {
+      "matches": 56,
+      "rating": 1181,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "170f5f87c9a1": {
+      "matches": 56,
+      "rating": 939,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "1711e6c53d40": {
+      "matches": 63,
+      "rating": 1339,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "181bd539c5d6": {
+      "matches": 56,
+      "rating": 1033,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "1828d51748c9": {
+      "matches": 42,
+      "rating": 947,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "184300bca00b": {
+      "matches": 56,
+      "rating": 1015,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "18c8e15911d6": {
+      "matches": 56,
+      "rating": 1210,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "18e8f6da9700": {
+      "matches": 56,
+      "rating": 990,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "19189cf78205": {
+      "matches": 70,
+      "rating": 1042,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "19d4f6200176": {
+      "matches": 42,
+      "rating": 1228,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "1aacdbb403b6": {
+      "matches": 42,
+      "rating": 1078,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "1ac92251d609": {
+      "matches": 49,
+      "rating": 1240,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "1b36394eaebb": {
+      "matches": 77,
+      "rating": 1324,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "1c08011f7faa": {
+      "matches": 49,
+      "rating": 1172,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "1c8dff97a84b": {
+      "matches": 77,
+      "rating": 1177,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "1cd07bca8f0c": {
+      "matches": 84,
+      "rating": 1534,
+      "uncertainty": 0.1091089451179962,
+      "uncertainty_points": 43.64357804719848
+    },
+    "1ce8318de6e3": {
+      "matches": 56,
+      "rating": 1182,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "1cffcd8a634f": {
+      "matches": 49,
+      "rating": 1139,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "1d73400109e1": {
+      "matches": 42,
+      "rating": 1196,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "1d9e0610b8f8": {
+      "matches": 63,
+      "rating": 1051,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "1dfc2f88e61f": {
+      "matches": 42,
+      "rating": 1438,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "1e29609b498c": {
+      "matches": 63,
+      "rating": 889,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "1e852f1721db": {
+      "matches": 63,
+      "rating": 1384,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "1f4d61e4e26c": {
+      "matches": 63,
+      "rating": 1387,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "1f5173806b82": {
+      "matches": 42,
+      "rating": 960,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "1f80703ec12d": {
+      "matches": 49,
+      "rating": 915,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "2049bbe7a5e6": {
+      "matches": 49,
+      "rating": 1263,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "205616482dc7": {
+      "matches": 63,
+      "rating": 1058,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "208e2fd162a6": {
+      "matches": 42,
+      "rating": 1338,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "20ac507dac17": {
+      "matches": 42,
+      "rating": 1330,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "20ad5ac9ed19": {
+      "matches": 70,
+      "rating": 1268,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "21b805e3da91": {
+      "matches": 70,
+      "rating": 1437,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "221eb7ebbb7d": {
+      "matches": 56,
+      "rating": 1045,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "2269c7dd732b": {
+      "matches": 63,
+      "rating": 1213,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "22ded128e07a": {
+      "matches": 42,
+      "rating": 1306,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "236133c8ba61": {
+      "matches": 56,
+      "rating": 1454,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "23679ffc8a08": {
+      "matches": 49,
+      "rating": 1324,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "23e71c2a6f26": {
+      "matches": 49,
+      "rating": 1055,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "240569e5911f": {
+      "matches": 63,
+      "rating": 1422,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "2463e5b1ffdf": {
+      "matches": 63,
+      "rating": 1270,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "247b1f58837b": {
+      "matches": 56,
+      "rating": 1322,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "24c55ecd4e93": {
+      "matches": 63,
+      "rating": 1214,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "24e8a5f6263e": {
+      "matches": 42,
+      "rating": 1260,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "2565851b99e5": {
+      "matches": 63,
+      "rating": 1036,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "25b78b5b0c52": {
+      "matches": 77,
+      "rating": 1247,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "26bcc23c6190": {
+      "matches": 42,
+      "rating": 1246,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "26e0f2a88ecd": {
+      "matches": 56,
+      "rating": 1371,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "27063b4cf95e": {
+      "matches": 63,
+      "rating": 1460,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "2706f463ef89": {
+      "matches": 42,
+      "rating": 1177,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "271d21f6543d": {
+      "matches": 77,
+      "rating": 1196,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "2761de5c8050": {
+      "matches": 56,
+      "rating": 1056,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "27abbe382d81": {
+      "matches": 63,
+      "rating": 940,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "27d5d4b36610": {
+      "matches": 49,
+      "rating": 1211,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "2806edcb562f": {
+      "matches": 63,
+      "rating": 940,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "28786ec4ffe6": {
+      "matches": 63,
+      "rating": 1148,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "288a18b28d2e": {
+      "matches": 63,
+      "rating": 888,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "2933a441c33d": {
+      "matches": 70,
+      "rating": 874,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "294bf7589d8a": {
+      "matches": 63,
+      "rating": 1007,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "29719f152ff3": {
+      "matches": 56,
+      "rating": 1189,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "2a8477556373": {
+      "matches": 84,
+      "rating": 860,
+      "uncertainty": 0.1091089451179962,
+      "uncertainty_points": 43.64357804719848
+    },
+    "2a9064e68803": {
+      "matches": 70,
+      "rating": 1186,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "2c4af6965489": {
+      "matches": 56,
+      "rating": 1129,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "2c503c38fbf6": {
+      "matches": 56,
+      "rating": 1194,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "2c9661ecf6d5": {
+      "matches": 70,
+      "rating": 1117,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "2cc62dc628d1": {
+      "matches": 49,
+      "rating": 1147,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "2cfddafb33a2": {
+      "matches": 42,
+      "rating": 1395,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "2d367268d19d": {
+      "matches": 63,
+      "rating": 1167,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "2d44ae480c4d": {
+      "matches": 35,
+      "rating": 1108,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "2d59a120d5f9": {
+      "matches": 70,
+      "rating": 1492,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "2d9e64a30d56": {
+      "matches": 91,
+      "rating": 943,
+      "uncertainty": 0.10482848367219183,
+      "uncertainty_points": 41.931393468876735
+    },
+    "2dd0046041ac": {
+      "matches": 35,
+      "rating": 1246,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "2fc76cd17936": {
+      "matches": 42,
+      "rating": 1309,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "300aa328989e": {
+      "matches": 70,
+      "rating": 1147,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "3053c496f748": {
+      "matches": 56,
+      "rating": 1316,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "309b15462c93": {
+      "matches": 56,
+      "rating": 953,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "309fc567160f": {
+      "matches": 56,
+      "rating": 1427,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "30dc09a9d035": {
+      "matches": 70,
+      "rating": 1144,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "31005900516a": {
+      "matches": 35,
+      "rating": 1256,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "31584a881b75": {
+      "matches": 49,
+      "rating": 1446,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "317f2ffafe43": {
+      "matches": 35,
+      "rating": 1147,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "31af46ab5ec4": {
+      "matches": 63,
+      "rating": 1330,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "31ec552b6f7e": {
+      "matches": 84,
+      "rating": 876,
+      "uncertainty": 0.1091089451179962,
+      "uncertainty_points": 43.64357804719848
+    },
+    "31fea3b27f44": {
+      "matches": 63,
+      "rating": 1313,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "320526048bb0": {
+      "matches": 49,
+      "rating": 1215,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "3224a636dc73": {
+      "matches": 63,
+      "rating": 1353,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "323617909fa9": {
+      "matches": 42,
+      "rating": 1309,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "324b81186cfc": {
+      "matches": 42,
+      "rating": 1085,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "32709f0226ab": {
+      "matches": 42,
+      "rating": 987,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "327acf79e98f": {
+      "matches": 49,
+      "rating": 1041,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "33393120f377": {
+      "matches": 63,
+      "rating": 1384,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "3379b8a444f9": {
+      "matches": 42,
+      "rating": 1200,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "33a5259a35ae": {
+      "matches": 49,
+      "rating": 1300,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "33a91c4f00a1": {
+      "matches": 56,
+      "rating": 1065,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "33bd1a298470": {
+      "matches": 63,
+      "rating": 1256,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "33c6dfe63628": {
+      "matches": 70,
+      "rating": 1470,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "3415027632ce": {
+      "matches": 49,
+      "rating": 1260,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "345e52ba1f14": {
+      "matches": 49,
+      "rating": 1061,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "347fad81daec": {
+      "matches": 63,
+      "rating": 1482,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "3504cad4fde9": {
+      "matches": 63,
+      "rating": 1123,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "3543d72204a0": {
+      "matches": 49,
+      "rating": 1432,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "3574e97e5cc4": {
+      "matches": 63,
+      "rating": 1114,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "357e17d1ada4": {
+      "matches": 56,
+      "rating": 1345,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "358c6f29394b": {
+      "matches": 77,
+      "rating": 1162,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "36099d32c9e5": {
+      "matches": 77,
+      "rating": 1156,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "36226bf9f38c": {
+      "matches": 77,
+      "rating": 866,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "365502703510": {
+      "matches": 70,
+      "rating": 943,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "3665db64326b": {
+      "matches": 63,
+      "rating": 1273,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "36a1b6b623ec": {
+      "matches": 63,
+      "rating": 1050,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "36e425066cd2": {
+      "matches": 56,
+      "rating": 1054,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "374a4bcb05be": {
+      "matches": 84,
+      "rating": 1281,
+      "uncertainty": 0.1091089451179962,
+      "uncertainty_points": 43.64357804719848
+    },
+    "37b562e96d10": {
+      "matches": 63,
+      "rating": 1136,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "37e3d1b56d33": {
+      "matches": 63,
+      "rating": 1311,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "37f2f9a7c4c6": {
+      "matches": 49,
+      "rating": 1084,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "38238e0cda64": {
+      "matches": 63,
+      "rating": 988,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "39f4b018894f": {
+      "matches": 70,
+      "rating": 1239,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "3a14bbdcdc81": {
+      "matches": 70,
+      "rating": 1038,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "3a5a38b74e57": {
+      "matches": 49,
+      "rating": 1073,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "3a679a1c4385": {
+      "matches": 63,
+      "rating": 885,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "3a7e7e53b2c3": {
+      "matches": 63,
+      "rating": 1205,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "3b15c64b2b3d": {
+      "matches": 70,
+      "rating": 1212,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "3bb1fa7c13dd": {
+      "matches": 49,
+      "rating": 1222,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "3bb451bef9c9": {
+      "matches": 35,
+      "rating": 1254,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "3bcd6b19e261": {
+      "matches": 63,
+      "rating": 1295,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "3c02fb55bb16": {
+      "matches": 77,
+      "rating": 1344,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "3c32c0298162": {
+      "matches": 63,
+      "rating": 1084,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "3c76d50d4f7c": {
+      "matches": 35,
+      "rating": 1167,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "3d29e337fbe7": {
+      "matches": 63,
+      "rating": 1434,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "3d8e1c9c4fd0": {
+      "matches": 63,
+      "rating": 1220,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "3d9e3ba621c2": {
+      "matches": 56,
+      "rating": 1295,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "3de902df2b27": {
+      "matches": 84,
+      "rating": 1503,
+      "uncertainty": 0.1091089451179962,
+      "uncertainty_points": 43.64357804719848
+    },
+    "3e017a08a702": {
+      "matches": 42,
+      "rating": 1072,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "3e0afb9ba8cd": {
+      "matches": 49,
+      "rating": 1116,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "3e671dcaa242": {
+      "matches": 35,
+      "rating": 1220,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "3eb0364163d9": {
+      "matches": 56,
+      "rating": 1150,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "3edb0cc99049": {
+      "matches": 63,
+      "rating": 980,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "3f0b356da31a": {
+      "matches": 63,
+      "rating": 1265,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "3f5ac2a339c2": {
+      "matches": 56,
+      "rating": 1192,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "3f98aff20cc1": {
+      "matches": 56,
+      "rating": 1357,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "401712356d11": {
+      "matches": 70,
+      "rating": 1343,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "4084b9f22c9c": {
+      "matches": 49,
+      "rating": 1317,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "409251272404": {
+      "matches": 56,
+      "rating": 1471,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "4094589baa68": {
+      "matches": 56,
+      "rating": 1081,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "40a8c2cb221e": {
+      "matches": 63,
+      "rating": 922,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "40eb6b91eb34": {
+      "matches": 49,
+      "rating": 1083,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "419d6dc9d8e9": {
+      "matches": 56,
+      "rating": 1245,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "41af0b92f152": {
+      "matches": 63,
+      "rating": 1298,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "427240993cdf": {
+      "matches": 56,
+      "rating": 1354,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "432024e0629a": {
+      "matches": 84,
+      "rating": 895,
+      "uncertainty": 0.1091089451179962,
+      "uncertainty_points": 43.64357804719848
+    },
+    "433753ef8360": {
+      "matches": 77,
+      "rating": 1202,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "435e45ee6b05": {
+      "matches": 70,
+      "rating": 1414,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "44108834751c": {
+      "matches": 56,
+      "rating": 1047,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "444efbcc0975": {
+      "matches": 56,
+      "rating": 1250,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "4456992b1e31": {
+      "matches": 56,
+      "rating": 1394,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "446c0f5ba0e7": {
+      "matches": 56,
+      "rating": 1370,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "448235d28f56": {
+      "matches": 98,
+      "rating": 1183,
+      "uncertainty": 0.10101525445522107,
+      "uncertainty_points": 40.40610178208843
+    },
+    "448c70cc3362": {
+      "matches": 70,
+      "rating": 1051,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "44f0330317a9": {
+      "matches": 63,
+      "rating": 1173,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "452e694e9613": {
+      "matches": 63,
+      "rating": 943,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "456ccaad199b": {
+      "matches": 49,
+      "rating": 1306,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "45862bc12774": {
+      "matches": 49,
+      "rating": 1079,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "4594302bc0ea": {
+      "matches": 49,
+      "rating": 1297,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "46ca3281e8cf": {
+      "matches": 77,
+      "rating": 1178,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "46f265d4cf5f": {
+      "matches": 35,
+      "rating": 1100,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "47707975722c": {
+      "matches": 70,
+      "rating": 1296,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "4771bb96a3a0": {
+      "matches": 49,
+      "rating": 1371,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "477ad6df3160": {
+      "matches": 70,
+      "rating": 1321,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "47a6c250e595": {
+      "matches": 63,
+      "rating": 1459,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "47db05ec1dc9": {
+      "matches": 49,
+      "rating": 1391,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "4855d8272d90": {
+      "matches": 56,
+      "rating": 1157,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "4871c6376f39": {
+      "matches": 49,
+      "rating": 1414,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "487be75061ac": {
+      "matches": 42,
+      "rating": 1236,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "48d7bc5bcc1d": {
+      "matches": 49,
+      "rating": 1008,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "4907b9fe43c3": {
+      "matches": 56,
+      "rating": 1190,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "491b9319ce34": {
+      "matches": 49,
+      "rating": 1175,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "491be781a15e": {
+      "matches": 42,
+      "rating": 1271,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "49db6ea92975": {
+      "matches": 63,
+      "rating": 1013,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "4a43c93324af": {
+      "matches": 63,
+      "rating": 1104,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "4a4ff5967dcd": {
+      "matches": 70,
+      "rating": 1469,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "4b8da3f14b36": {
+      "matches": 70,
+      "rating": 1063,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "4c3f3f60d07a": {
+      "matches": 63,
+      "rating": 1332,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "4c404ed6d837": {
+      "matches": 56,
+      "rating": 1389,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "4c5479b31017": {
+      "matches": 70,
+      "rating": 1233,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "4d24f7e6ba23": {
+      "matches": 49,
+      "rating": 1119,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "4d3b31483b22": {
+      "matches": 70,
+      "rating": 1339,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "4d9f4cd556ac": {
+      "matches": 49,
+      "rating": 1285,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "4e2c2172a10a": {
+      "matches": 42,
+      "rating": 1045,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "4e4152238eef": {
+      "matches": 35,
+      "rating": 1308,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "4ed8cd08599b": {
+      "matches": 70,
+      "rating": 861,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "4eec60cb4d04": {
+      "matches": 70,
+      "rating": 1125,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "4f488a59999e": {
+      "matches": 49,
+      "rating": 1330,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "4f8d4281cc24": {
+      "matches": 49,
+      "rating": 1201,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "4f8dea1efdbd": {
+      "matches": 49,
+      "rating": 1133,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "50545b5fefcf": {
+      "matches": 84,
+      "rating": 961,
+      "uncertainty": 0.1091089451179962,
+      "uncertainty_points": 43.64357804719848
+    },
+    "505afe989e95": {
+      "matches": 63,
+      "rating": 1121,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "5064e08096bb": {
+      "matches": 56,
+      "rating": 1052,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "508fc87d8e14": {
+      "matches": 63,
+      "rating": 1443,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "50ec240eff6f": {
+      "matches": 63,
+      "rating": 1425,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "50ed21dde2fd": {
+      "matches": 56,
+      "rating": 1069,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "51172e0afa21": {
+      "matches": 35,
+      "rating": 1327,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "51408f29f692": {
+      "matches": 49,
+      "rating": 1222,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "51a895a2aa46": {
+      "matches": 70,
+      "rating": 1170,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "51bc867d9fee": {
+      "matches": 63,
+      "rating": 963,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "51cc7ab307e8": {
+      "matches": 56,
+      "rating": 1155,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "525b828b769a": {
+      "matches": 49,
+      "rating": 970,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "525e2c8bf145": {
+      "matches": 63,
+      "rating": 1271,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "53369acd309c": {
+      "matches": 49,
+      "rating": 1008,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "5346c3380b3c": {
+      "matches": 63,
+      "rating": 1066,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "536afbf589e5": {
+      "matches": 49,
+      "rating": 1375,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "537d1b650e95": {
+      "matches": 56,
+      "rating": 1249,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "53857fa1fbbe": {
+      "matches": 56,
+      "rating": 1149,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "53b922e8dff3": {
+      "matches": 70,
+      "rating": 864,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "54014ad32aa2": {
+      "matches": 49,
+      "rating": 1216,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "540f535b022a": {
+      "matches": 77,
+      "rating": 1276,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "54890c8af6c8": {
+      "matches": 56,
+      "rating": 1027,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "54eaa281fa40": {
+      "matches": 49,
+      "rating": 1358,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "550cf1b8e0ce": {
+      "matches": 56,
+      "rating": 1176,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "552592e31dda": {
+      "matches": 63,
+      "rating": 1224,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "55c4632b6fcb": {
+      "matches": 56,
+      "rating": 1348,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "55d047229498": {
+      "matches": 49,
+      "rating": 1377,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "561a8243e197": {
+      "matches": 49,
+      "rating": 950,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "569ac877b3c3": {
+      "matches": 56,
+      "rating": 1357,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "56b5e3b7e485": {
+      "matches": 63,
+      "rating": 1354,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "56de1df932a7": {
+      "matches": 49,
+      "rating": 1409,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "57223f5e5391": {
+      "matches": 49,
+      "rating": 1251,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "57524e01cc51": {
+      "matches": 70,
+      "rating": 1248,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "5752638c974f": {
+      "matches": 91,
+      "rating": 1440,
+      "uncertainty": 0.10482848367219183,
+      "uncertainty_points": 41.931393468876735
+    },
+    "58460d242024": {
+      "matches": 56,
+      "rating": 945,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "584df1c6d487": {
+      "matches": 49,
+      "rating": 1439,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "586ff5324e4a": {
+      "matches": 70,
+      "rating": 1450,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "58793d28724a": {
+      "matches": 63,
+      "rating": 981,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "58af1ebf3764": {
+      "matches": 91,
+      "rating": 1308,
+      "uncertainty": 0.10482848367219183,
+      "uncertainty_points": 41.931393468876735
+    },
+    "58af915896cf": {
+      "matches": 63,
+      "rating": 918,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "58b553a3795a": {
+      "matches": 49,
+      "rating": 1419,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "58d1bb97b6dd": {
+      "matches": 49,
+      "rating": 1278,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "594b99425376": {
+      "matches": 56,
+      "rating": 1217,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "59bc5e155a92": {
+      "matches": 42,
+      "rating": 1198,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "59c2d51a436b": {
+      "matches": 63,
+      "rating": 1064,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "59cb0cf0a891": {
+      "matches": 63,
+      "rating": 1295,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "59e9986296db": {
+      "matches": 63,
+      "rating": 891,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "5a218ec5f949": {
+      "matches": 49,
+      "rating": 1082,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "5a850b0b2a9d": {
+      "matches": 35,
+      "rating": 1069,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "5aa8ff2b28d9": {
+      "matches": 70,
+      "rating": 904,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "5ae6700695d2": {
+      "matches": 49,
+      "rating": 946,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "5af87e19c486": {
+      "matches": 42,
+      "rating": 1307,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "5be27cee1689": {
+      "matches": 77,
+      "rating": 1058,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "5be61bcac16f": {
+      "matches": 56,
+      "rating": 1067,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "5c00e603efbf": {
+      "matches": 49,
+      "rating": 1145,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "5c75d0fc0591": {
+      "matches": 70,
+      "rating": 1208,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "5c8d9e3f78e9": {
+      "matches": 91,
+      "rating": 1340,
+      "uncertainty": 0.10482848367219183,
+      "uncertainty_points": 41.931393468876735
+    },
+    "5cb3d1faceef": {
+      "matches": 70,
+      "rating": 855,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "5cdd0daa4cce": {
+      "matches": 56,
+      "rating": 988,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "5d108cfe691f": {
+      "matches": 63,
+      "rating": 1289,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "5d13c34b2b01": {
+      "matches": 63,
+      "rating": 1103,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "5d52129faf6c": {
+      "matches": 63,
+      "rating": 986,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "5d92ea366297": {
+      "matches": 77,
+      "rating": 1438,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "5dc555593ec9": {
+      "matches": 63,
+      "rating": 1133,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "5dfad5eea247": {
+      "matches": 35,
+      "rating": 1431,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "5dfd7f880e93": {
+      "matches": 56,
+      "rating": 1025,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "5e22ef774146": {
+      "matches": 63,
+      "rating": 1286,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "5ea7c2cd6b84": {
+      "matches": 77,
+      "rating": 976,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "5eae4687bd58": {
+      "matches": 56,
+      "rating": 943,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "5ec683cec75a": {
+      "matches": 84,
+      "rating": 1358,
+      "uncertainty": 0.1091089451179962,
+      "uncertainty_points": 43.64357804719848
+    },
+    "5efe8a60855e": {
+      "matches": 70,
+      "rating": 1145,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "5f1a67f1a1fe": {
+      "matches": 63,
+      "rating": 1243,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "5f4c3ce3e78f": {
+      "matches": 56,
+      "rating": 1101,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "5f6adbb917af": {
+      "matches": 42,
+      "rating": 1203,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "5f81bd6f0ef7": {
+      "matches": 70,
+      "rating": 1438,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "5fa06eec298a": {
+      "matches": 63,
+      "rating": 1291,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "5fb24cc90f9f": {
+      "matches": 77,
+      "rating": 1329,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "5fe667dd6ffc": {
+      "matches": 63,
+      "rating": 1016,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "5ff7678a87d1": {
+      "matches": 63,
+      "rating": 1109,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "5ffc81d33e2a": {
+      "matches": 49,
+      "rating": 1262,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "6093ad147bbc": {
+      "matches": 63,
+      "rating": 1224,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "617d13ddd254": {
+      "matches": 70,
+      "rating": 966,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "61b42d693bb3": {
+      "matches": 70,
+      "rating": 1296,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "61ced49024b5": {
+      "matches": 56,
+      "rating": 1087,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "61e08429c74e": {
+      "matches": 42,
+      "rating": 1052,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "61e384528adc": {
+      "matches": 49,
+      "rating": 1266,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "62d612e6fca6": {
+      "matches": 35,
+      "rating": 1024,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "6371a5d79a64": {
+      "matches": 70,
+      "rating": 1222,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "639b586aa864": {
+      "matches": 49,
+      "rating": 928,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "6425159c67da": {
+      "matches": 56,
+      "rating": 1112,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "642eb97ba00f": {
+      "matches": 49,
+      "rating": 1178,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "6444c61d8678": {
+      "matches": 42,
+      "rating": 1213,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "649eda9cd846": {
+      "matches": 42,
+      "rating": 1247,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "64a17267d326": {
+      "matches": 63,
+      "rating": 1049,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "64b41beb90e6": {
+      "matches": 42,
+      "rating": 1085,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "6509c4630d26": {
+      "matches": 56,
+      "rating": 1215,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "655324dd622f": {
+      "matches": 42,
+      "rating": 1141,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "65587c6ceef8": {
+      "matches": 63,
+      "rating": 1167,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "65ae700de0ea": {
+      "matches": 70,
+      "rating": 1355,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "65ea73a656e5": {
+      "matches": 70,
+      "rating": 974,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "667520366d93": {
+      "matches": 77,
+      "rating": 1520,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "66af8f046113": {
+      "matches": 42,
+      "rating": 1260,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "674034e60bec": {
+      "matches": 56,
+      "rating": 1491,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "675a9db00c98": {
+      "matches": 70,
+      "rating": 1017,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "681ee7781147": {
+      "matches": 70,
+      "rating": 1446,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "6898a85ccac1": {
+      "matches": 77,
+      "rating": 1344,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "6937e4148e61": {
+      "matches": 56,
+      "rating": 1347,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "69719f9efcce": {
+      "matches": 49,
+      "rating": 1292,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "69c1f615357f": {
+      "matches": 49,
+      "rating": 1431,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "6acc0da12d9d": {
+      "matches": 56,
+      "rating": 924,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "6af3b428a1a8": {
+      "matches": 77,
+      "rating": 1203,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "6b50525dcd53": {
+      "matches": 49,
+      "rating": 1102,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "6b5616100bef": {
+      "matches": 63,
+      "rating": 1447,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "6b745de22cf7": {
+      "matches": 77,
+      "rating": 1218,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "6bed97632c96": {
+      "matches": 63,
+      "rating": 1243,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "6c4f29da2bf9": {
+      "matches": 42,
+      "rating": 1054,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "6e08571f8679": {
+      "matches": 70,
+      "rating": 1186,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "6e72179a7b1d": {
+      "matches": 42,
+      "rating": 1008,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "6eaa9dda021c": {
+      "matches": 49,
+      "rating": 981,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "6eb3625594b3": {
+      "matches": 56,
+      "rating": 1246,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "6ed240021d62": {
+      "matches": 42,
+      "rating": 1273,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "6fbefb150eb4": {
+      "matches": 49,
+      "rating": 1502,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "6fce029ca161": {
+      "matches": 56,
+      "rating": 1013,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "704c6c7d36a9": {
+      "matches": 63,
+      "rating": 1454,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "707fd0f0f32b": {
+      "matches": 49,
+      "rating": 1085,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "70f243d107da": {
+      "matches": 63,
+      "rating": 1272,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "710b25364c1b": {
+      "matches": 49,
+      "rating": 1271,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "714e3312d26d": {
+      "matches": 63,
+      "rating": 1184,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "71bd4213c6c3": {
+      "matches": 56,
+      "rating": 1409,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "71ca5bdbee2a": {
+      "matches": 49,
+      "rating": 1376,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "71e23055811f": {
+      "matches": 49,
+      "rating": 1454,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "71fdf76003aa": {
+      "matches": 42,
+      "rating": 952,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "72a01936ff37": {
+      "matches": 70,
+      "rating": 872,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "72a06842e67c": {
+      "matches": 70,
+      "rating": 1226,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "72fae29d8fdf": {
+      "matches": 70,
+      "rating": 1505,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "7313e2b3605e": {
+      "matches": 42,
+      "rating": 1398,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "734201422ef9": {
+      "matches": 63,
+      "rating": 984,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "7390a85a676a": {
+      "matches": 63,
+      "rating": 1022,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "73b7214f89c3": {
+      "matches": 63,
+      "rating": 1027,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "73c473309215": {
+      "matches": 56,
+      "rating": 955,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "73dbd507b65f": {
+      "matches": 49,
+      "rating": 1312,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "74253af39b95": {
+      "matches": 77,
+      "rating": 1194,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "74674518ee62": {
+      "matches": 56,
+      "rating": 1195,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "748b3cb0cbdf": {
+      "matches": 49,
+      "rating": 1270,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "74cc3ce1bf82": {
+      "matches": 63,
+      "rating": 1294,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "7569c6de6053": {
+      "matches": 63,
+      "rating": 960,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "75cb56341f4a": {
+      "matches": 49,
+      "rating": 1350,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "763a0ce11623": {
+      "matches": 70,
+      "rating": 1204,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "76648c6859b6": {
+      "matches": 70,
+      "rating": 1014,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "7697a7ad9f1b": {
+      "matches": 63,
+      "rating": 1072,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "76a3b8b54a4b": {
+      "matches": 49,
+      "rating": 1144,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "77419aa4d2b6": {
+      "matches": 56,
+      "rating": 1414,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "7858b3bf4aa7": {
+      "matches": 56,
+      "rating": 1116,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "787704c3da40": {
+      "matches": 56,
+      "rating": 1310,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "78887b5ec48b": {
+      "matches": 63,
+      "rating": 1119,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "789db5e3c026": {
+      "matches": 56,
+      "rating": 1178,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "78afd68bdbb9": {
+      "matches": 70,
+      "rating": 1094,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "79229c1c0a13": {
+      "matches": 70,
+      "rating": 1140,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "793954923391": {
+      "matches": 77,
+      "rating": 890,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "79840ef1415b": {
+      "matches": 63,
+      "rating": 1082,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "799cef140ae8": {
+      "matches": 56,
+      "rating": 1339,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "79c6e0d1e17f": {
+      "matches": 70,
+      "rating": 986,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "7af8249a5cd2": {
+      "matches": 77,
+      "rating": 1161,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "7b3450609154": {
+      "matches": 56,
+      "rating": 1250,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "7b4991015f18": {
+      "matches": 70,
+      "rating": 1394,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "7bbb89aa4d95": {
+      "matches": 70,
+      "rating": 978,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "7c1fb8bad378": {
+      "matches": 77,
+      "rating": 1296,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "7c4defc75f5b": {
+      "matches": 56,
+      "rating": 1001,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "7c6a5e14091e": {
+      "matches": 56,
+      "rating": 1017,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "7ccda5937e34": {
+      "matches": 49,
+      "rating": 1215,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "7ce906e83572": {
+      "matches": 49,
+      "rating": 1291,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "7cf4e3e16ace": {
+      "matches": 70,
+      "rating": 1145,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "7e76089fd425": {
+      "matches": 63,
+      "rating": 916,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "7ecb9cc008a9": {
+      "matches": 63,
+      "rating": 1395,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "7ed2b41f04b5": {
+      "matches": 70,
+      "rating": 1341,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "7f09e121ea2e": {
+      "matches": 49,
+      "rating": 1048,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "7f71f6545288": {
+      "matches": 42,
+      "rating": 1046,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "7ffd062961bf": {
+      "matches": 56,
+      "rating": 1152,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "80018f3d363c": {
+      "matches": 63,
+      "rating": 1392,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "80a4eafb5408": {
+      "matches": 56,
+      "rating": 994,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "80cc06d1f028": {
+      "matches": 49,
+      "rating": 1501,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "80e70c126b6d": {
+      "matches": 49,
+      "rating": 1075,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "812cd9bfa756": {
+      "matches": 56,
+      "rating": 1118,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "8176ea7e0497": {
+      "matches": 42,
+      "rating": 1243,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "8186b2dd3dbd": {
+      "matches": 63,
+      "rating": 1019,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "820b1417278b": {
+      "matches": 63,
+      "rating": 1288,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "82105b891a0b": {
+      "matches": 56,
+      "rating": 1390,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "821ad381236b": {
+      "matches": 63,
+      "rating": 1008,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "82750abeae0a": {
+      "matches": 42,
+      "rating": 1281,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "82b337cd1111": {
+      "matches": 63,
+      "rating": 1286,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "82ff5497ae36": {
+      "matches": 70,
+      "rating": 1067,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "832c749d92ea": {
+      "matches": 70,
+      "rating": 1149,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "834db5f53e41": {
+      "matches": 56,
+      "rating": 1358,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "835037ddd17d": {
+      "matches": 56,
+      "rating": 1385,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "838aacdacd13": {
+      "matches": 63,
+      "rating": 1219,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "83ce64df51e7": {
+      "matches": 63,
+      "rating": 1480,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "83dffbbc1436": {
+      "matches": 84,
+      "rating": 892,
+      "uncertainty": 0.1091089451179962,
+      "uncertainty_points": 43.64357804719848
+    },
+    "83f28e42aed6": {
+      "matches": 49,
+      "rating": 1246,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "8487e8c7efea": {
+      "matches": 77,
+      "rating": 1257,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "84901077e5d6": {
+      "matches": 63,
+      "rating": 1213,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "84b3c65153ff": {
+      "matches": 63,
+      "rating": 1170,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "84c7dbed77d9": {
+      "matches": 63,
+      "rating": 1140,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "84dd90f7fba0": {
+      "matches": 56,
+      "rating": 1455,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "851747dd514a": {
+      "matches": 49,
+      "rating": 1101,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "851fcbf5eb6d": {
+      "matches": 49,
+      "rating": 1311,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "853e485cf806": {
+      "matches": 70,
+      "rating": 1043,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "857b1f7a837f": {
+      "matches": 49,
+      "rating": 1303,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "859d1853fe9e": {
+      "matches": 49,
+      "rating": 1289,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "8608e4606113": {
+      "matches": 49,
+      "rating": 1120,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "8620f752f5e8": {
+      "matches": 70,
+      "rating": 939,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "862cec287e4e": {
+      "matches": 42,
+      "rating": 1087,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "8632b7e6b89c": {
+      "matches": 56,
+      "rating": 1341,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "8636d3677ff7": {
+      "matches": 70,
+      "rating": 1300,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "864c0b99ffd2": {
+      "matches": 63,
+      "rating": 1160,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "8693d5d96f52": {
+      "matches": 42,
+      "rating": 1177,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "86db12ee7375": {
+      "matches": 56,
+      "rating": 1211,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "87eb803d976e": {
+      "matches": 42,
+      "rating": 1428,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "87eb910e2200": {
+      "matches": 56,
+      "rating": 1498,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "87f6291c813c": {
+      "matches": 70,
+      "rating": 943,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "880b23ccc19b": {
+      "matches": 77,
+      "rating": 1174,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "880d46ba41d6": {
+      "matches": 56,
+      "rating": 1134,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "887a5b7b9bb8": {
+      "matches": 49,
+      "rating": 1210,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "88d383bcf00d": {
+      "matches": 84,
+      "rating": 1027,
+      "uncertainty": 0.1091089451179962,
+      "uncertainty_points": 43.64357804719848
+    },
+    "891847784f9f": {
+      "matches": 42,
+      "rating": 1377,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "89341bad44ad": {
+      "matches": 77,
+      "rating": 1445,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "89410bb657c6": {
+      "matches": 56,
+      "rating": 1373,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "8947354c9493": {
+      "matches": 77,
+      "rating": 1383,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "8953445f3c06": {
+      "matches": 56,
+      "rating": 995,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "89ce33f9ae4c": {
+      "matches": 56,
+      "rating": 1115,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "89d641d9a67c": {
+      "matches": 77,
+      "rating": 1474,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "89d7a71b56ed": {
+      "matches": 63,
+      "rating": 1192,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "89ebc1e897d9": {
+      "matches": 56,
+      "rating": 1304,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "8a020f854598": {
+      "matches": 63,
+      "rating": 1271,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "8a44941f128e": {
+      "matches": 77,
+      "rating": 1071,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "8a7cafc183f9": {
+      "matches": 42,
+      "rating": 1092,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "8a9b5c2f4def": {
+      "matches": 56,
+      "rating": 1341,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "8aa4c39108ab": {
+      "matches": 63,
+      "rating": 1286,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "8aaf3c46a6d2": {
+      "matches": 56,
+      "rating": 1130,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "8ae2d336602f": {
+      "matches": 63,
+      "rating": 1040,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "8afa540116fb": {
+      "matches": 63,
+      "rating": 1375,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "8b1cd26d1977": {
+      "matches": 63,
+      "rating": 1086,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "8b4a566be139": {
+      "matches": 70,
+      "rating": 1087,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "8b70e37201db": {
+      "matches": 77,
+      "rating": 1394,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "8b74db168515": {
+      "matches": 56,
+      "rating": 907,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "8b8469528f2f": {
+      "matches": 56,
+      "rating": 1316,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "8ba1f8543d05": {
+      "matches": 42,
+      "rating": 1297,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "8bb4aefcc03d": {
+      "matches": 77,
+      "rating": 1436,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "8bbfab31b8a3": {
+      "matches": 56,
+      "rating": 1501,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "8c96514f9acd": {
+      "matches": 70,
+      "rating": 1254,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "8cba1334f5db": {
+      "matches": 63,
+      "rating": 1156,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "8d6027eb03b9": {
+      "matches": 77,
+      "rating": 821,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "8e00da06239b": {
+      "matches": 49,
+      "rating": 1232,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "8e02515c2725": {
+      "matches": 63,
+      "rating": 1136,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "8e5421654d43": {
+      "matches": 70,
+      "rating": 1080,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "8ec70a44caa7": {
+      "matches": 70,
+      "rating": 1192,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "8eeeba7adfd4": {
+      "matches": 84,
+      "rating": 1368,
+      "uncertainty": 0.1091089451179962,
+      "uncertainty_points": 43.64357804719848
+    },
+    "8efbfe8f55a9": {
+      "matches": 70,
+      "rating": 982,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "8f103a7e8cd9": {
+      "matches": 70,
+      "rating": 1175,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "8f3c3b4e4aa8": {
+      "matches": 63,
+      "rating": 1162,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "8f5b7f8e45cb": {
+      "matches": 63,
+      "rating": 1356,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "8f689d59a2bc": {
+      "matches": 63,
+      "rating": 1121,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "8f8a871d26e9": {
+      "matches": 56,
+      "rating": 1136,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "8f8b870e1d0f": {
+      "matches": 56,
+      "rating": 1111,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "8fd539daace5": {
+      "matches": 63,
+      "rating": 1240,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "9092ce9acfe3": {
+      "matches": 70,
+      "rating": 1207,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "90a5d50612d3": {
+      "matches": 56,
+      "rating": 1302,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "90be5a01c3d9": {
+      "matches": 98,
+      "rating": 1040,
+      "uncertainty": 0.10101525445522107,
+      "uncertainty_points": 40.40610178208843
+    },
+    "911a2d23980f": {
+      "matches": 49,
+      "rating": 1115,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "9139cacbc79c": {
+      "matches": 56,
+      "rating": 879,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "916008523ade": {
+      "matches": 56,
+      "rating": 1028,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "918e7166435f": {
+      "matches": 63,
+      "rating": 1337,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "91d8a8f02dea": {
+      "matches": 56,
+      "rating": 1430,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "927179ea06b4": {
+      "matches": 70,
+      "rating": 941,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "9284bdf39b66": {
+      "matches": 77,
+      "rating": 1455,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "92947c21a212": {
+      "matches": 35,
+      "rating": 1077,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "92a2b2cb7374": {
+      "matches": 63,
+      "rating": 1163,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "92c0c0c4ca14": {
+      "matches": 49,
+      "rating": 1000,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "92fe9844bf78": {
+      "matches": 56,
+      "rating": 1005,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "932759e79826": {
+      "matches": 63,
+      "rating": 1063,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "932fd881eb2c": {
+      "matches": 56,
+      "rating": 909,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "93376252ae17": {
+      "matches": 63,
+      "rating": 1520,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "9339ea9144bc": {
+      "matches": 63,
+      "rating": 1244,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "934ec2c7fe02": {
+      "matches": 56,
+      "rating": 1402,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "93761f28cf49": {
+      "matches": 42,
+      "rating": 1418,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "93cf78c9f834": {
+      "matches": 49,
+      "rating": 1442,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "93d3b2c31a92": {
+      "matches": 56,
+      "rating": 1231,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "93e541e9e130": {
+      "matches": 42,
+      "rating": 1337,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "9427fe368461": {
+      "matches": 63,
+      "rating": 1296,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "943397f9acc5": {
+      "matches": 63,
+      "rating": 844,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "94628233f3e5": {
+      "matches": 35,
+      "rating": 1384,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "94a8b89d74ac": {
+      "matches": 42,
+      "rating": 1366,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "9527d435f889": {
+      "matches": 70,
+      "rating": 1081,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "9562bc03100f": {
+      "matches": 70,
+      "rating": 1270,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "95bb89f9e9e9": {
+      "matches": 42,
+      "rating": 1335,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "9648ff463850": {
+      "matches": 56,
+      "rating": 996,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "9664933e4bc1": {
+      "matches": 63,
+      "rating": 1143,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "975a570ffd92": {
+      "matches": 63,
+      "rating": 983,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "97e8508e4591": {
+      "matches": 49,
+      "rating": 1284,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "9828f3bd52c5": {
+      "matches": 70,
+      "rating": 1447,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "98474a2fd3cf": {
+      "matches": 56,
+      "rating": 1004,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "98d7984831f0": {
+      "matches": 49,
+      "rating": 1030,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "98ec75104211": {
+      "matches": 63,
+      "rating": 1474,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "9a1f3da0a36c": {
+      "matches": 42,
+      "rating": 1017,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "9a714f9b6e63": {
+      "matches": 28,
+      "rating": 1111,
+      "uncertainty": 0.1889822365046136,
+      "uncertainty_points": 75.59289460184544
+    },
+    "9aa304cc2b5c": {
+      "matches": 56,
+      "rating": 1049,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "9b3cb00a9dd3": {
+      "matches": 49,
+      "rating": 1105,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "9b853ccaf936": {
+      "matches": 49,
+      "rating": 1009,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "9b8b97dafb77": {
+      "matches": 56,
+      "rating": 1350,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "9bd5d67eddc8": {
+      "matches": 77,
+      "rating": 910,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "9cd8886eb713": {
+      "matches": 63,
+      "rating": 1089,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "9cf59ece89e8": {
+      "matches": 49,
+      "rating": 1006,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "9d94bf4b73d1": {
+      "matches": 49,
+      "rating": 1081,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "9dea84f47d47": {
+      "matches": 84,
+      "rating": 1430,
+      "uncertainty": 0.1091089451179962,
+      "uncertainty_points": 43.64357804719848
+    },
+    "9df4ef03a578": {
+      "matches": 42,
+      "rating": 1319,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "9e0580c621b1": {
+      "matches": 77,
+      "rating": 1491,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "9f4cb42da41d": {
+      "matches": 63,
+      "rating": 1488,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "9fbb66c580e8": {
+      "matches": 49,
+      "rating": 1434,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "9fbb7884cec8": {
+      "matches": 63,
+      "rating": 1212,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "9fc3e68bd447": {
+      "matches": 70,
+      "rating": 1183,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "9fdefb586118": {
+      "matches": 63,
+      "rating": 1469,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "9ffca42c4db5": {
+      "matches": 49,
+      "rating": 1128,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "a012f8fc829e": {
+      "matches": 63,
+      "rating": 1419,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "a033cee144ef": {
+      "matches": 63,
+      "rating": 1092,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "a078986d26d6": {
+      "matches": 56,
+      "rating": 1035,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "a0a72b759308": {
+      "matches": 42,
+      "rating": 1410,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "a0afe6dc515e": {
+      "matches": 49,
+      "rating": 1076,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "a0b24295da23": {
+      "matches": 35,
+      "rating": 1304,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "a0b5d2ef77be": {
+      "matches": 63,
+      "rating": 960,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "a0d03b107d97": {
+      "matches": 56,
+      "rating": 1294,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "a0d1d0bfc1c2": {
+      "matches": 49,
+      "rating": 1292,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "a0d5fb528485": {
+      "matches": 84,
+      "rating": 1393,
+      "uncertainty": 0.1091089451179962,
+      "uncertainty_points": 43.64357804719848
+    },
+    "a11ff211778d": {
+      "matches": 42,
+      "rating": 1150,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "a14a5b810eec": {
+      "matches": 49,
+      "rating": 1187,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "a1641e49a8ca": {
+      "matches": 70,
+      "rating": 1063,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "a281c876d8b3": {
+      "matches": 77,
+      "rating": 1003,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "a2a82c8e5a10": {
+      "matches": 56,
+      "rating": 1404,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "a2c09226d2d4": {
+      "matches": 84,
+      "rating": 1368,
+      "uncertainty": 0.1091089451179962,
+      "uncertainty_points": 43.64357804719848
+    },
+    "a39b9ad75039": {
+      "matches": 49,
+      "rating": 1133,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "a3c92958290f": {
+      "matches": 70,
+      "rating": 1421,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "a4974c677f92": {
+      "matches": 77,
+      "rating": 1392,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "a4b9f3a3b7d5": {
+      "matches": 63,
+      "rating": 1123,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "a4bf25e032ce": {
+      "matches": 56,
+      "rating": 909,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "a4c133677d94": {
+      "matches": 56,
+      "rating": 1315,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "a56840e6298c": {
+      "matches": 49,
+      "rating": 1302,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "a5c34e757e86": {
+      "matches": 70,
+      "rating": 903,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "a5dfdd8c643a": {
+      "matches": 56,
+      "rating": 1055,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "a6aee5e566f1": {
+      "matches": 56,
+      "rating": 1082,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "a754987f8a15": {
+      "matches": 56,
+      "rating": 1408,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "a7d4a01e49dd": {
+      "matches": 56,
+      "rating": 946,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "a80cc5cb154d": {
+      "matches": 70,
+      "rating": 952,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "a8786da6d84d": {
+      "matches": 49,
+      "rating": 1195,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "a897ad40823d": {
+      "matches": 63,
+      "rating": 882,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "a8e160a818b0": {
+      "matches": 70,
+      "rating": 1215,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "a8ff8a87809d": {
+      "matches": 56,
+      "rating": 1061,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "a94d369c1c82": {
+      "matches": 56,
+      "rating": 1140,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "a9926314910e": {
+      "matches": 56,
+      "rating": 1382,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "a9f1e36cf0cf": {
+      "matches": 56,
+      "rating": 1399,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "aa65cd231198": {
+      "matches": 56,
+      "rating": 1442,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "aa6d201a3da2": {
+      "matches": 77,
+      "rating": 1546,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "aac88fe3cdf0": {
+      "matches": 70,
+      "rating": 1273,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "ab12086fb8e6": {
+      "matches": 63,
+      "rating": 882,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "ab967a29386b": {
+      "matches": 56,
+      "rating": 1295,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "aba86b72b2bb": {
+      "matches": 63,
+      "rating": 1196,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "aba9340ee164": {
+      "matches": 70,
+      "rating": 1159,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "abf25b9a3f9b": {
+      "matches": 49,
+      "rating": 1023,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "ac0be3d0c26d": {
+      "matches": 42,
+      "rating": 952,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "ac69e545f033": {
+      "matches": 70,
+      "rating": 1525,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "ad2e3c80a900": {
+      "matches": 49,
+      "rating": 923,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "ad980fd524a1": {
+      "matches": 49,
+      "rating": 1032,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "ada889e8a2e3": {
+      "matches": 70,
+      "rating": 1378,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "adbb3489acd1": {
+      "matches": 56,
+      "rating": 1025,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "aeefaffc1395": {
+      "matches": 56,
+      "rating": 928,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "af062f736248": {
+      "matches": 63,
+      "rating": 1239,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "af104a829a80": {
+      "matches": 42,
+      "rating": 1430,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "af439865af9a": {
+      "matches": 63,
+      "rating": 1354,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "af88c2a4c422": {
+      "matches": 77,
+      "rating": 901,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "af8d9058edbe": {
+      "matches": 56,
+      "rating": 1147,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "afbe94445296": {
+      "matches": 42,
+      "rating": 1316,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "afc1059f3d3d": {
+      "matches": 63,
+      "rating": 1382,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "afd3258e22b2": {
+      "matches": 49,
+      "rating": 1232,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "afe879f49792": {
+      "matches": 56,
+      "rating": 1118,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "b01c002f6009": {
+      "matches": 49,
+      "rating": 1468,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "b02ec523ddfa": {
+      "matches": 49,
+      "rating": 1319,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "b04c180abd45": {
+      "matches": 42,
+      "rating": 1320,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "b072cf2c972a": {
+      "matches": 77,
+      "rating": 993,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "b0a016ae0451": {
+      "matches": 42,
+      "rating": 1344,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "b0cc82bd710b": {
+      "matches": 63,
+      "rating": 1500,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "b0d2da9a94ae": {
+      "matches": 49,
+      "rating": 1147,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "b0e1dac07a7e": {
+      "matches": 70,
+      "rating": 882,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "b0e3e277e390": {
+      "matches": 63,
+      "rating": 1212,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "b10b404bc230": {
+      "matches": 70,
+      "rating": 1255,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "b12d5d0ae5b2": {
+      "matches": 56,
+      "rating": 1010,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "b173d474df15": {
+      "matches": 49,
+      "rating": 938,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "b195e7faa7f2": {
+      "matches": 42,
+      "rating": 1446,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "b19dab6fa7e6": {
+      "matches": 56,
+      "rating": 1003,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "b1a533b00e47": {
+      "matches": 35,
+      "rating": 1183,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "b1e3eb70e522": {
+      "matches": 49,
+      "rating": 1091,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "b23b051ee353": {
+      "matches": 63,
+      "rating": 947,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "b2bd63172fcc": {
+      "matches": 56,
+      "rating": 1132,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "b2fb5a30e788": {
+      "matches": 70,
+      "rating": 1022,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "b30f26b26d73": {
+      "matches": 70,
+      "rating": 928,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "b32a9032fc93": {
+      "matches": 49,
+      "rating": 1077,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "b34ca90eeca7": {
+      "matches": 70,
+      "rating": 1426,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "b366c8c65817": {
+      "matches": 70,
+      "rating": 1288,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "b36dfc6af757": {
+      "matches": 56,
+      "rating": 1110,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "b397c22f2a75": {
+      "matches": 42,
+      "rating": 1417,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "b3e1abd2ec65": {
+      "matches": 56,
+      "rating": 898,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "b3e910637d93": {
+      "matches": 56,
+      "rating": 1295,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "b4f18975e20e": {
+      "matches": 63,
+      "rating": 1297,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "b525fe3c3cda": {
+      "matches": 56,
+      "rating": 944,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "b54d8ed01646": {
+      "matches": 70,
+      "rating": 1467,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "b5694190c35d": {
+      "matches": 70,
+      "rating": 1083,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "b5b153190a36": {
+      "matches": 56,
+      "rating": 1485,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "b5f02d1542ec": {
+      "matches": 42,
+      "rating": 1248,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "b64d953c327b": {
+      "matches": 63,
+      "rating": 866,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "b669a59800da": {
+      "matches": 49,
+      "rating": 1417,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "b75abc458dbd": {
+      "matches": 63,
+      "rating": 1402,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "b79c0117a627": {
+      "matches": 77,
+      "rating": 1373,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "b7d166797138": {
+      "matches": 42,
+      "rating": 1140,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "b81f3a5a30a0": {
+      "matches": 56,
+      "rating": 1299,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "b8733c856835": {
+      "matches": 49,
+      "rating": 1148,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "b8debc284573": {
+      "matches": 70,
+      "rating": 1214,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "b8f2cd5eb306": {
+      "matches": 56,
+      "rating": 1233,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "b8f9def4e9ec": {
+      "matches": 70,
+      "rating": 1484,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "b9a1537761ae": {
+      "matches": 49,
+      "rating": 948,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "b9eaa968e822": {
+      "matches": 70,
+      "rating": 1223,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "b9efed624c05": {
+      "matches": 70,
+      "rating": 1455,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "b9fb493d9c87": {
+      "matches": 56,
+      "rating": 1301,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "ba09e46274ae": {
+      "matches": 77,
+      "rating": 1294,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "ba2e73d744d8": {
+      "matches": 63,
+      "rating": 1105,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "baef18b82fc7": {
+      "matches": 63,
+      "rating": 1317,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "bb24cbf7d5ee": {
+      "matches": 49,
+      "rating": 1101,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "bb4ace743b65": {
+      "matches": 49,
+      "rating": 990,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "bb582ff0e80c": {
+      "matches": 77,
+      "rating": 999,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "bc46abe122c1": {
+      "matches": 49,
+      "rating": 910,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "bc69de951815": {
+      "matches": 42,
+      "rating": 1282,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "bc71f31973b6": {
+      "matches": 49,
+      "rating": 1097,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "bd6f7e4e31e7": {
+      "matches": 42,
+      "rating": 1437,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "bdeca930789e": {
+      "matches": 63,
+      "rating": 1384,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "bf568af7c93f": {
+      "matches": 63,
+      "rating": 1251,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "bf6b7396b96d": {
+      "matches": 42,
+      "rating": 1001,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "bf7e2690fee2": {
+      "matches": 49,
+      "rating": 896,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "bfa98603f2e0": {
+      "matches": 63,
+      "rating": 1010,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "c008c7b5ab73": {
+      "matches": 56,
+      "rating": 1172,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "c02f4df40924": {
+      "matches": 70,
+      "rating": 968,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "c055f2f48abd": {
+      "matches": 63,
+      "rating": 1470,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "c064c5bc59b5": {
+      "matches": 56,
+      "rating": 1367,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "c0b79291461d": {
+      "matches": 56,
+      "rating": 1431,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "c0d5d5c8622b": {
+      "matches": 42,
+      "rating": 1408,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "c155cf32d556": {
+      "matches": 42,
+      "rating": 1135,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "c15fa74c2053": {
+      "matches": 49,
+      "rating": 1389,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "c1797e13e9b5": {
+      "matches": 56,
+      "rating": 1214,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "c185acdd4356": {
+      "matches": 56,
+      "rating": 1059,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "c1b45ec19504": {
+      "matches": 70,
+      "rating": 1170,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "c2135c8924af": {
+      "matches": 49,
+      "rating": 1149,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "c22e0a51a77d": {
+      "matches": 77,
+      "rating": 1290,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "c23550af94b2": {
+      "matches": 56,
+      "rating": 1325,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "c288b44bd7ac": {
+      "matches": 77,
+      "rating": 1434,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "c2ab1eae20bf": {
+      "matches": 56,
+      "rating": 1287,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "c2b6528313f0": {
+      "matches": 56,
+      "rating": 1474,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "c323eaae93da": {
+      "matches": 42,
+      "rating": 1285,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "c3259d2c2656": {
+      "matches": 63,
+      "rating": 1343,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "c32dba442dec": {
+      "matches": 49,
+      "rating": 968,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "c390f4a41ad8": {
+      "matches": 56,
+      "rating": 934,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "c3d11bf85b25": {
+      "matches": 63,
+      "rating": 1008,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "c4533bc39667": {
+      "matches": 56,
+      "rating": 1254,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "c47368632046": {
+      "matches": 84,
+      "rating": 969,
+      "uncertainty": 0.1091089451179962,
+      "uncertainty_points": 43.64357804719848
+    },
+    "c4e26888c28b": {
+      "matches": 70,
+      "rating": 904,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "c4f15d47ce46": {
+      "matches": 49,
+      "rating": 1351,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "c537780b0e33": {
+      "matches": 56,
+      "rating": 1077,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "c58827cfa72c": {
+      "matches": 49,
+      "rating": 1306,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "c5db23e9a229": {
+      "matches": 56,
+      "rating": 1469,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "c5f96e63a70f": {
+      "matches": 63,
+      "rating": 1294,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "c6090a6b8aab": {
+      "matches": 91,
+      "rating": 1611,
+      "uncertainty": 0.10482848367219183,
+      "uncertainty_points": 41.931393468876735
+    },
+    "c6139376e434": {
+      "matches": 56,
+      "rating": 1283,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "c6147e240aae": {
+      "matches": 56,
+      "rating": 1200,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "c61966559306": {
+      "matches": 56,
+      "rating": 1420,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "c65cc03799e5": {
+      "matches": 63,
+      "rating": 1451,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "c67bba2accb3": {
+      "matches": 63,
+      "rating": 1457,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "c6d397a1bc21": {
+      "matches": 63,
+      "rating": 1250,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "c6e7dfb8be5f": {
+      "matches": 42,
+      "rating": 1072,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "c7071a68d286": {
+      "matches": 63,
+      "rating": 1006,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "c752806f96c4": {
+      "matches": 70,
+      "rating": 902,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "c766b2e30def": {
+      "matches": 49,
+      "rating": 1365,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "c77e6ef0c63c": {
+      "matches": 77,
+      "rating": 821,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "c7f38136023f": {
+      "matches": 49,
+      "rating": 1446,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "c855af08c3a1": {
+      "matches": 63,
+      "rating": 1052,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "c8d1034920ae": {
+      "matches": 49,
+      "rating": 1283,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "c93151494c8f": {
+      "matches": 49,
+      "rating": 1024,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "c95124e3bb6e": {
+      "matches": 56,
+      "rating": 986,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "c951c41746d2": {
+      "matches": 70,
+      "rating": 955,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "ca31dddbfb09": {
+      "matches": 84,
+      "rating": 1190,
+      "uncertainty": 0.1091089451179962,
+      "uncertainty_points": 43.64357804719848
+    },
+    "ca4af4c74f47": {
+      "matches": 49,
+      "rating": 1167,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "cac022d3016e": {
+      "matches": 63,
+      "rating": 1411,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "cac8a74535da": {
+      "matches": 77,
+      "rating": 1443,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "cb69e74d344b": {
+      "matches": 70,
+      "rating": 1189,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "cb7835db25e4": {
+      "matches": 63,
+      "rating": 1446,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "cbc24d10755a": {
+      "matches": 56,
+      "rating": 1345,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "cbe5148bcaf5": {
+      "matches": 42,
+      "rating": 1077,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "cc504decc1d0": {
+      "matches": 63,
+      "rating": 1431,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "cc9087b69403": {
+      "matches": 70,
+      "rating": 1012,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "cc971c04381b": {
+      "matches": 49,
+      "rating": 994,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "ccb2c378cebe": {
+      "matches": 49,
+      "rating": 925,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "cccd68ca5b96": {
+      "matches": 42,
+      "rating": 1426,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "cd6719c660ce": {
+      "matches": 49,
+      "rating": 1081,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "cdc5aaba2904": {
+      "matches": 70,
+      "rating": 976,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "cdd5b45dbd1d": {
+      "matches": 56,
+      "rating": 1408,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "cea6f4d74d36": {
+      "matches": 63,
+      "rating": 1152,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "cf5b469aeea7": {
+      "matches": 56,
+      "rating": 1117,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "d04086bb8841": {
+      "matches": 63,
+      "rating": 1297,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "d040b1615c89": {
+      "matches": 56,
+      "rating": 956,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "d056635b8e29": {
+      "matches": 49,
+      "rating": 1179,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "d056b6539102": {
+      "matches": 63,
+      "rating": 1268,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "d12dc09ee741": {
+      "matches": 56,
+      "rating": 885,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "d13661c305ee": {
+      "matches": 77,
+      "rating": 949,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "d19cc885db77": {
+      "matches": 56,
+      "rating": 1079,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "d1bcc50f3d9c": {
+      "matches": 49,
+      "rating": 1279,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "d1c4cb4b82f5": {
+      "matches": 56,
+      "rating": 1480,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "d21182e0095b": {
+      "matches": 56,
+      "rating": 905,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "d21b2483c284": {
+      "matches": 56,
+      "rating": 1196,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "d27edc6fed29": {
+      "matches": 63,
+      "rating": 1444,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "d29bbad6cc15": {
+      "matches": 56,
+      "rating": 1259,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "d31993880d0c": {
+      "matches": 35,
+      "rating": 1327,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "d33a591cc67a": {
+      "matches": 84,
+      "rating": 804,
+      "uncertainty": 0.1091089451179962,
+      "uncertainty_points": 43.64357804719848
+    },
+    "d3d808c10ee8": {
+      "matches": 42,
+      "rating": 1211,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "d3ec82c1444b": {
+      "matches": 42,
+      "rating": 1036,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "d3ef947edaae": {
+      "matches": 56,
+      "rating": 1191,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "d44d9d72ba11": {
+      "matches": 42,
+      "rating": 955,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "d4625b83e603": {
+      "matches": 63,
+      "rating": 955,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "d4a2f581d2c1": {
+      "matches": 35,
+      "rating": 1290,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "d4a50a52e494": {
+      "matches": 70,
+      "rating": 1141,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "d5553f08bb2f": {
+      "matches": 70,
+      "rating": 1361,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "d59840ec8895": {
+      "matches": 56,
+      "rating": 1164,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "d5a5aa4dd7cd": {
+      "matches": 56,
+      "rating": 1332,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "d5a5ac0d8e16": {
+      "matches": 70,
+      "rating": 1261,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "d6382772e653": {
+      "matches": 77,
+      "rating": 856,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "d663e3595682": {
+      "matches": 49,
+      "rating": 1082,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "d6a5679c9bab": {
+      "matches": 84,
+      "rating": 1010,
+      "uncertainty": 0.1091089451179962,
+      "uncertainty_points": 43.64357804719848
+    },
+    "d6da7a77de6e": {
+      "matches": 49,
+      "rating": 1349,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "d6ef94eca921": {
+      "matches": 49,
+      "rating": 1011,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "d71811660882": {
+      "matches": 77,
+      "rating": 932,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "d7312b7bf25c": {
+      "matches": 63,
+      "rating": 1373,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "d754c927369e": {
+      "matches": 70,
+      "rating": 1033,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "d7ae15e91175": {
+      "matches": 56,
+      "rating": 1203,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "d7d572ffe381": {
+      "matches": 70,
+      "rating": 1323,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "d828ae8b6c02": {
+      "matches": 56,
+      "rating": 1486,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "d884ec9dad29": {
+      "matches": 56,
+      "rating": 1069,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "d8fc6e2cc62c": {
+      "matches": 49,
+      "rating": 1388,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "d92ddc4fcd0a": {
+      "matches": 49,
+      "rating": 1109,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "d9564367f902": {
+      "matches": 42,
+      "rating": 1315,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "d9693ba1eca3": {
+      "matches": 49,
+      "rating": 1019,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "d97597f7ab9b": {
+      "matches": 77,
+      "rating": 1143,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "d9f73da2fd0a": {
+      "matches": 63,
+      "rating": 1119,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "d9fc8e75bad1": {
+      "matches": 49,
+      "rating": 1265,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "da09c12a8207": {
+      "matches": 63,
+      "rating": 1260,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "da4b8ce9c26e": {
+      "matches": 49,
+      "rating": 1089,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "da81c4246876": {
+      "matches": 84,
+      "rating": 1083,
+      "uncertainty": 0.1091089451179962,
+      "uncertainty_points": 43.64357804719848
+    },
+    "dab061a59ba1": {
+      "matches": 56,
+      "rating": 896,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "dad756d0ce21": {
+      "matches": 63,
+      "rating": 1290,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "dada001b4581": {
+      "matches": 49,
+      "rating": 1443,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "db2e9f2ed110": {
+      "matches": 63,
+      "rating": 1274,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "dbc47fc10cc7": {
+      "matches": 77,
+      "rating": 1424,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "dbceed77e4cc": {
+      "matches": 56,
+      "rating": 1347,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "dc3f6a241000": {
+      "matches": 42,
+      "rating": 1287,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "dc9575660090": {
+      "matches": 70,
+      "rating": 1513,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "dccf3a97c1ef": {
+      "matches": 70,
+      "rating": 1198,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "dcf78692bd52": {
+      "matches": 56,
+      "rating": 1255,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "dd141dfd15d4": {
+      "matches": 70,
+      "rating": 1260,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "dd26f62b6b77": {
+      "matches": 63,
+      "rating": 1200,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "dd2867394d4f": {
+      "matches": 70,
+      "rating": 966,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "dd3bd4325feb": {
+      "matches": 49,
+      "rating": 1207,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "dd839bc1474f": {
+      "matches": 42,
+      "rating": 1393,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "dd83f2ca84c7": {
+      "matches": 56,
+      "rating": 1429,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "ddd29a5c1b3a": {
+      "matches": 70,
+      "rating": 1103,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "de10acc69df0": {
+      "matches": 70,
+      "rating": 1454,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "de1a58b97635": {
+      "matches": 49,
+      "rating": 907,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "de35563c7467": {
+      "matches": 70,
+      "rating": 1217,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "de4ec0fd55e5": {
+      "matches": 49,
+      "rating": 1342,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "de8ac804c795": {
+      "matches": 63,
+      "rating": 1200,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "deb0fec8fcb1": {
+      "matches": 56,
+      "rating": 1332,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "ded7d98f7f75": {
+      "matches": 63,
+      "rating": 1025,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "deec0d937c2b": {
+      "matches": 63,
+      "rating": 1244,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "df209af88b34": {
+      "matches": 56,
+      "rating": 1250,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "df521a757c22": {
+      "matches": 42,
+      "rating": 1393,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "df7f45dde40d": {
+      "matches": 70,
+      "rating": 1359,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "df9edb3d4e23": {
+      "matches": 56,
+      "rating": 1094,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "dfc4c37df217": {
+      "matches": 63,
+      "rating": 925,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "e042956d71dd": {
+      "matches": 63,
+      "rating": 1229,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "e05da78698e1": {
+      "matches": 49,
+      "rating": 1363,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "e09e924d1d43": {
+      "matches": 56,
+      "rating": 904,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "e1132acf275a": {
+      "matches": 77,
+      "rating": 1115,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "e1308757df8d": {
+      "matches": 63,
+      "rating": 961,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "e15859925c79": {
+      "matches": 63,
+      "rating": 907,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "e1893e035088": {
+      "matches": 56,
+      "rating": 957,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "e1d848ea5036": {
+      "matches": 56,
+      "rating": 1397,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "e1dc38eca2c0": {
+      "matches": 63,
+      "rating": 1215,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "e1e278f889ad": {
+      "matches": 84,
+      "rating": 1244,
+      "uncertainty": 0.1091089451179962,
+      "uncertainty_points": 43.64357804719848
+    },
+    "e21a87df1895": {
+      "matches": 49,
+      "rating": 1220,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "e240a673b661": {
+      "matches": 42,
+      "rating": 1330,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "e284ffa813e0": {
+      "matches": 49,
+      "rating": 1268,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "e28dac519ee6": {
+      "matches": 63,
+      "rating": 1357,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "e2975b997bbd": {
+      "matches": 70,
+      "rating": 1404,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "e3038d480b21": {
+      "matches": 35,
+      "rating": 992,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "e37cdd04b958": {
+      "matches": 56,
+      "rating": 1398,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "e3fc4612fbd5": {
+      "matches": 77,
+      "rating": 1549,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "e40c496d91b9": {
+      "matches": 63,
+      "rating": 1438,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "e414cdb24b8a": {
+      "matches": 77,
+      "rating": 1180,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "e46a9be13bac": {
+      "matches": 77,
+      "rating": 1521,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "e474ed2a787a": {
+      "matches": 42,
+      "rating": 1296,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "e4a386badb46": {
+      "matches": 49,
+      "rating": 975,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "e4d7a01d7e00": {
+      "matches": 49,
+      "rating": 1294,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "e4f72e471c95": {
+      "matches": 42,
+      "rating": 1296,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "e5473a0c90da": {
+      "matches": 49,
+      "rating": 1213,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "e55b9076d2b9": {
+      "matches": 63,
+      "rating": 1160,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "e55ec41f4ab9": {
+      "matches": 49,
+      "rating": 1201,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "e5ce4a9cc97d": {
+      "matches": 49,
+      "rating": 1122,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "e5d7ec9ed77c": {
+      "matches": 56,
+      "rating": 974,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "e620d58c25ff": {
+      "matches": 42,
+      "rating": 1108,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "e63d14955d52": {
+      "matches": 70,
+      "rating": 1342,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "e660a2849a79": {
+      "matches": 49,
+      "rating": 1049,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "e68fc17ac904": {
+      "matches": 56,
+      "rating": 1264,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "e6a6398f7bdf": {
+      "matches": 49,
+      "rating": 1459,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "e6b0b34cc8cb": {
+      "matches": 70,
+      "rating": 1533,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "e6f1da310899": {
+      "matches": 56,
+      "rating": 1192,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "e730d6164b28": {
+      "matches": 56,
+      "rating": 1051,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "e7c59cc7f063": {
+      "matches": 42,
+      "rating": 1031,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "e82b3bab07ba": {
+      "matches": 63,
+      "rating": 1442,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "e82befd231ed": {
+      "matches": 35,
+      "rating": 1013,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "e8639c9a8e77": {
+      "matches": 56,
+      "rating": 1299,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "e86855ffab9d": {
+      "matches": 56,
+      "rating": 1442,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "e8871e537e33": {
+      "matches": 28,
+      "rating": 1200,
+      "uncertainty": 0.1889822365046136,
+      "uncertainty_points": 75.59289460184544
+    },
+    "e898c0de86b7": {
+      "matches": 35,
+      "rating": 994,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "e90442c2002f": {
+      "matches": 42,
+      "rating": 1395,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "e9227df47118": {
+      "matches": 56,
+      "rating": 1412,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "e95fb169e1fc": {
+      "matches": 49,
+      "rating": 1357,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "e97401c6d808": {
+      "matches": 56,
+      "rating": 1059,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "e98663f4ff61": {
+      "matches": 70,
+      "rating": 1249,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "ea43b9baddcf": {
+      "matches": 56,
+      "rating": 1124,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "ea453267c3d6": {
+      "matches": 63,
+      "rating": 1359,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "ea81623562eb": {
+      "matches": 77,
+      "rating": 1056,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "eb29cc37c8c8": {
+      "matches": 77,
+      "rating": 1498,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "eb316b81b0d5": {
+      "matches": 70,
+      "rating": 1144,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "eb3baf61df65": {
+      "matches": 70,
+      "rating": 1361,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "eb4884bbac04": {
+      "matches": 56,
+      "rating": 1202,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "eb5166fab8f9": {
+      "matches": 63,
+      "rating": 1002,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "eb59dde643c2": {
+      "matches": 56,
+      "rating": 1431,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "eb792acf9df5": {
+      "matches": 63,
+      "rating": 1217,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "eb7d722b4998": {
+      "matches": 49,
+      "rating": 919,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "ebc5e1fbd0e0": {
+      "matches": 56,
+      "rating": 1322,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "ec2ff48210a2": {
+      "matches": 42,
+      "rating": 1423,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "ecc42c964b51": {
+      "matches": 77,
+      "rating": 877,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "eccba0d8f246": {
+      "matches": 56,
+      "rating": 1114,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "ece2e2ef6bb1": {
+      "matches": 49,
+      "rating": 1244,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "edbe85a7b215": {
+      "matches": 70,
+      "rating": 979,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "ee0478aa9f4d": {
+      "matches": 35,
+      "rating": 1307,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "ee2196fd9880": {
+      "matches": 63,
+      "rating": 1099,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "ef0de297bc8c": {
+      "matches": 49,
+      "rating": 1365,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "ef947a53a6f1": {
+      "matches": 63,
+      "rating": 1267,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "efc55e1462b4": {
+      "matches": 56,
+      "rating": 1334,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "efec18b46564": {
+      "matches": 49,
+      "rating": 1247,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "f073da487d56": {
+      "matches": 56,
+      "rating": 1226,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "f098837d652f": {
+      "matches": 42,
+      "rating": 1103,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "f0aa8c60acc9": {
+      "matches": 56,
+      "rating": 1419,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "f0d21b583c1c": {
+      "matches": 49,
+      "rating": 1134,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "f11842bf29d6": {
+      "matches": 49,
+      "rating": 1119,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "f19c20e5f439": {
+      "matches": 56,
+      "rating": 1160,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "f21dc79fb30e": {
+      "matches": 77,
+      "rating": 1324,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "f24d19095ba5": {
+      "matches": 49,
+      "rating": 1022,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "f29102bcefc6": {
+      "matches": 42,
+      "rating": 1421,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "f2ca089d2364": {
+      "matches": 56,
+      "rating": 1216,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "f37a15b176e5": {
+      "matches": 42,
+      "rating": 1401,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "f39bd36cb9ae": {
+      "matches": 49,
+      "rating": 964,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "f3c17965cb67": {
+      "matches": 70,
+      "rating": 1300,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "f45a6c85f1e4": {
+      "matches": 70,
+      "rating": 1056,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "f4c8874deb20": {
+      "matches": 77,
+      "rating": 1289,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "f4cf4d798e5d": {
+      "matches": 84,
+      "rating": 1440,
+      "uncertainty": 0.1091089451179962,
+      "uncertainty_points": 43.64357804719848
+    },
+    "f4e24be3060e": {
+      "matches": 77,
+      "rating": 1314,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "f5297597ba20": {
+      "matches": 56,
+      "rating": 1449,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "f52dd6aa0302": {
+      "matches": 63,
+      "rating": 878,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "f55274efd4bc": {
+      "matches": 49,
+      "rating": 1155,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "f55563d80964": {
+      "matches": 77,
+      "rating": 1284,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "f5e1156a6ca1": {
+      "matches": 35,
+      "rating": 1101,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "f67554842f24": {
+      "matches": 63,
+      "rating": 1208,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "f7134edefbc0": {
+      "matches": 49,
+      "rating": 1327,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "f7442845a8b3": {
+      "matches": 70,
+      "rating": 1069,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "f7a4c0f8419a": {
+      "matches": 70,
+      "rating": 1039,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "f7dc7b7d8b5b": {
+      "matches": 63,
+      "rating": 1201,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "f7e10d505713": {
+      "matches": 70,
+      "rating": 1162,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "f7fcda71b2dc": {
+      "matches": 63,
+      "rating": 1309,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "f87ca6a1c5c5": {
+      "matches": 49,
+      "rating": 1316,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "f88dd4aea809": {
+      "matches": 63,
+      "rating": 1329,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "f92e9673e7b8": {
+      "matches": 56,
+      "rating": 1498,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "f95cfd3abcc4": {
+      "matches": 63,
+      "rating": 1071,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "f969c41f0ab8": {
+      "matches": 35,
+      "rating": 1337,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "f993ce15032e": {
+      "matches": 49,
+      "rating": 1031,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "f9e50f7dc599": {
+      "matches": 56,
+      "rating": 969,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "fa0cde4f2f30": {
+      "matches": 35,
+      "rating": 976,
+      "uncertainty": 0.1690308509457033,
+      "uncertainty_points": 67.61234037828132
+    },
+    "fa0e68c6011d": {
+      "matches": 70,
+      "rating": 1389,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "fa31475c4eac": {
+      "matches": 70,
+      "rating": 1165,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "fa9771466f23": {
+      "matches": 63,
+      "rating": 893,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "fb002d63870f": {
+      "matches": 49,
+      "rating": 1485,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "fbad71224302": {
+      "matches": 70,
+      "rating": 1335,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "fbc4d3ba5138": {
+      "matches": 42,
+      "rating": 1100,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "fc572bfb76b0": {
+      "matches": 56,
+      "rating": 1245,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "fca2af4a0fd3": {
+      "matches": 63,
+      "rating": 1228,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "fd04e3de2e81": {
+      "matches": 56,
+      "rating": 1028,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "fd4689774f00": {
+      "matches": 63,
+      "rating": 1227,
+      "uncertainty": 0.1259881576697424,
+      "uncertainty_points": 50.395263067896956
+    },
+    "fd5a6b700fa5": {
+      "matches": 49,
+      "rating": 1060,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    },
+    "fdc989e8f6fb": {
+      "matches": 56,
+      "rating": 1378,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "fdd82d6bb24f": {
+      "matches": 77,
+      "rating": 1264,
+      "uncertainty": 0.11396057645963795,
+      "uncertainty_points": 45.58423058385518
+    },
+    "fe1a9257a62c": {
+      "matches": 56,
+      "rating": 1014,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "fe4637ae8124": {
+      "matches": 70,
+      "rating": 1477,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "fe480c675c99": {
+      "matches": 42,
+      "rating": 1252,
+      "uncertainty": 0.1543033499620919,
+      "uncertainty_points": 61.72133998483677
+    },
+    "fe852ad97879": {
+      "matches": 70,
+      "rating": 1065,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "fe8a7014f09c": {
+      "matches": 70,
+      "rating": 859,
+      "uncertainty": 0.11952286093343936,
+      "uncertainty_points": 47.809144373375744
+    },
+    "fed53a6c2be3": {
+      "matches": 56,
+      "rating": 1177,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "ff7e2c28cae5": {
+      "matches": 56,
+      "rating": 1352,
+      "uncertainty": 0.1336306209562122,
+      "uncertainty_points": 53.45224838248488
+    },
+    "ffa221f21b0c": {
+      "matches": 28,
+      "rating": 1323,
+      "uncertainty": 0.1889822365046136,
+      "uncertainty_points": 75.59289460184544
+    },
+    "ffe1a4f516b3": {
+      "matches": 49,
+      "rating": 1208,
+      "uncertainty": 0.14285714285714285,
+      "uncertainty_points": 57.14285714285714
+    }
+  },
+  "statistics": {
+    "average_rating": 1199.06,
+    "avg_matches_per_question": 58.6,
+    "last_updated": "2025-06-02T16:23:08.086570",
+    "max_rating": 1611,
+    "median_rating": 1208.0,
+    "min_rating": 804,
+    "questions_with_matches": 1000,
+    "std_dev_rating": 170.89,
+    "total_matches": 58597,
+    "total_questions": 1000
   }
 }
